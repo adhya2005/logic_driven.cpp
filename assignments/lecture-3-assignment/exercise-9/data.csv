@@ -1,0 +1,1001 @@
+Order Date,Customer,City,State,Category,Sub Category,Amount
+11/08/16,Claire Gute,Henderson,Kentucky,Furniture,Bookcases,262
+11/08/16,Claire Gute,Henderson,Kentucky,Furniture,Chairs,732
+06/12/16,Darrin Van Huff,Los Angeles,California,Office Supplies,Labels,15
+10/11/15,Sean O'Donnell,Fort Lauderdale,Florida,Furniture,Tables,958
+10/11/15,Sean O'Donnell,Fort Lauderdale,Florida,Office Supplies,Storage,22
+06/09/14,Brosina Hoffman,Los Angeles,California,Furniture,Furnishings,49
+06/09/14,Brosina Hoffman,Los Angeles,California,Office Supplies,Art,7
+06/09/14,Brosina Hoffman,Los Angeles,California,Technology,Phones,907
+06/09/14,Brosina Hoffman,Los Angeles,California,Office Supplies,Binders,19
+06/09/14,Brosina Hoffman,Los Angeles,California,Office Supplies,Appliances,115
+06/09/14,Brosina Hoffman,Los Angeles,California,Furniture,Tables,1706
+06/09/14,Brosina Hoffman,Los Angeles,California,Technology,Phones,911
+04/15/17,Andrew Allen,Concord,North Carolina,Office Supplies,Paper,16
+12/05/16,Irene Maddox,Seattle,Washington,Office Supplies,Binders,408
+11/22/15,Harold Pawlan,Fort Worth,Texas,Office Supplies,Appliances,69
+11/22/15,Harold Pawlan,Fort Worth,Texas,Office Supplies,Binders,3
+11/11/14,Pete Kriz,Madison,Wisconsin,Office Supplies,Storage,666
+05/13/14,Alejandro Grove,West Jordan,Utah,Office Supplies,Storage,56
+08/27/14,Zuschuss Donatelli,San Francisco,California,Office Supplies,Art,9
+08/27/14,Zuschuss Donatelli,San Francisco,California,Technology,Phones,213
+08/27/14,Zuschuss Donatelli,San Francisco,California,Office Supplies,Binders,23
+12/09/16,Ken Black,Fremont,Nebraska,Office Supplies,Art,19
+12/09/16,Ken Black,Fremont,Nebraska,Office Supplies,Appliances,60
+07/16/17,Sandra Flanagan,Philadelphia,Pennsylvania,Furniture,Chairs,71
+09/25/15,Emily Burns,Orem,Utah,Furniture,Tables,1045
+01/16/16,Eric Hoffmann,Los Angeles,California,Office Supplies,Binders,12
+01/16/16,Eric Hoffmann,Los Angeles,California,Technology,Accessories,91
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Furniture,Bookcases,3083
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Office Supplies,Binders,10
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Furniture,Furnishings,124
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Office Supplies,Envelopes,3
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Office Supplies,Art,86
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Office Supplies,Binders,7
+09/17/15,Tracy Blumstein,Philadelphia,Pennsylvania,Office Supplies,Art,16
+10/19/17,Matt Abelman,Houston,Texas,Office Supplies,Paper,29
+12/08/16,Gene Hale,Richardson,Texas,Technology,Phones,1098
+12/08/16,Gene Hale,Richardson,Texas,Furniture,Furnishings,191
+12/27/15,Steve Nguyen,Houston,Texas,Office Supplies,Envelopes,113
+12/27/15,Steve Nguyen,Houston,Texas,Furniture,Bookcases,532
+12/27/15,Steve Nguyen,Houston,Texas,Furniture,Chairs,212
+12/27/15,Steve Nguyen,Houston,Texas,Technology,Phones,371
+09/10/17,Linda Cazamias,Naperville,Illinois,Technology,Phones,147
+07/17/16,Ruben Ausman,Los Angeles,California,Office Supplies,Storage,78
+09/19/17,Erin Smith,Melbourne,Florida,Office Supplies,Storage,96
+03/11/16,Odella Nelson,Eagan,Minnesota,Technology,Accessories,46
+03/11/16,Odella Nelson,Eagan,Minnesota,Office Supplies,Binders,17
+10/20/14,Patrick O'Donnell,Westland,Michigan,Office Supplies,Storage,212
+06/20/16,Lena Hernandez,Dover,Delaware,Technology,Accessories,45
+06/20/16,Lena Hernandez,Dover,Delaware,Technology,Phones,22
+04/18/15,Darren Powers,New Albany,Indiana,Office Supplies,Binders,38
+04/18/15,Darren Powers,New Albany,Indiana,Office Supplies,Labels,75
+04/18/15,Darren Powers,New Albany,Indiana,Furniture,Furnishings,6
+04/18/15,Darren Powers,New Albany,Indiana,Furniture,Chairs,90
+12/11/16,Janet Molinari,New York City,New York,Office Supplies,Fasteners,15
+12/11/16,Janet Molinari,New York City,New York,Technology,Phones,1030
+06/17/16,Ted Butterfield,Troy,New York,Office Supplies,Storage,209
+06/17/16,Ted Butterfield,Troy,New York,Office Supplies,Paper,32
+06/17/16,Ted Butterfield,Troy,New York,Furniture,Chairs,319
+06/17/16,Ted Butterfield,Troy,New York,Office Supplies,Paper,15
+06/17/16,Ted Butterfield,Troy,New York,Technology,Accessories,30
+06/17/16,Ted Butterfield,Troy,New York,Office Supplies,Binders,48
+06/17/16,Ted Butterfield,Troy,New York,Office Supplies,Art,2
+11/24/15,Kunst Miller,Los Angeles,California,Technology,Accessories,14
+11/24/15,Kunst Miller,Los Angeles,California,Office Supplies,Binders,26
+11/24/15,Kunst Miller,Los Angeles,California,Office Supplies,Paper,147
+11/24/15,Kunst Miller,Los Angeles,California,Furniture,Furnishings,80
+04/30/15,Paul Stevenson,Chicago,Illinois,Furniture,Chairs,213
+12/05/14,Brendan Sweed,Gilbert,Arizona,Office Supplies,Art,1113
+12/05/14,Brendan Sweed,Gilbert,Arizona,Technology,Phones,168
+06/04/16,Karen Daniels,Springfield,Virginia,Office Supplies,Paper,76
+09/18/16,Henry MacAllister,New York City,New York,Office Supplies,Binders,5
+09/14/17,Tracy Blumstein,Jackson,Michigan,Office Supplies,Paper,19
+04/26/15,Joel Eaton,Memphis,Tennessee,Furniture,Chairs,832
+04/26/15,Joel Eaton,Memphis,Tennessee,Furniture,Furnishings,97
+04/26/15,Joel Eaton,Memphis,Tennessee,Office Supplies,Storage,73
+12/09/17,Ken Brennan,Houston,Texas,Office Supplies,Binders,1
+12/09/17,Ken Brennan,Houston,Texas,Furniture,Furnishings,10
+12/09/17,Ken Brennan,Houston,Texas,Office Supplies,Storage,27
+11/26/14,Joel Eaton,Houston,Texas,Furniture,Furnishings,19
+06/12/16,Stewart Carmichael,Decatur,Alabama,Office Supplies,Appliances,208
+06/12/16,Stewart Carmichael,Decatur,Alabama,Office Supplies,Binders,17
+10/12/14,Duane Noonan,San Francisco,California,Office Supplies,Art,15
+10/12/14,Duane Noonan,San Francisco,California,Office Supplies,Storage,21
+09/03/15,Julie Creighton,Durham,North Carolina,Office Supplies,Envelopes,201
+11/13/17,Christopher Schild,Chicago,Illinois,Office Supplies,Storage,230
+05/28/17,Patrick O'Donnell,Columbia,South Carolina,Furniture,Chairs,302
+10/26/17,Paul Gonzalez,Rochester,Minnesota,Technology,Accessories,20
+10/26/17,Paul Gonzalez,Rochester,Minnesota,Office Supplies,Labels,6
+04/05/16,Gary Mitchum,Houston,Texas,Office Supplies,Storage,158
+09/17/16,Jim Sink,Los Angeles,California,Office Supplies,Art,20
+09/17/16,Jim Sink,Los Angeles,California,Technology,Phones,74
+09/17/16,Jim Sink,Los Angeles,California,Office Supplies,Paper,6
+01/31/15,Karl Braun,Minneapolis,Minnesota,Office Supplies,Paper,13
+01/31/15,Karl Braun,Minneapolis,Minnesota,Furniture,Furnishings,53
+01/31/15,Karl Braun,Minneapolis,Minnesota,Office Supplies,Binders,33
+11/06/17,Roger Barcio,Portland,Oregon,Office Supplies,Binders,6
+11/09/17,Parhena Norris,New York City,New York,Furniture,Furnishings,97
+06/17/17,Katherine Ducich,San Francisco,California,Office Supplies,Binders,51
+09/06/16,Elpida Rittenbach,Saint Paul,Minnesota,Office Supplies,Appliances,78
+08/29/16,Rick Bensley,Chicago,Illinois,Office Supplies,Paper,65
+08/29/16,Rick Bensley,Chicago,Illinois,Technology,Accessories,96
+08/29/16,Rick Bensley,Chicago,Illinois,Office Supplies,Binders,2
+12/01/16,Gary Zandusky,Rochester,Minnesota,Office Supplies,Paper,24
+11/13/15,Lena Cacioppo,Aurora,Colorado,Technology,Accessories,239
+11/13/15,Lena Cacioppo,Aurora,Colorado,Furniture,Furnishings,102
+11/13/15,Lena Cacioppo,Aurora,Colorado,Office Supplies,Binders,37
+11/23/17,Janet Martin,Charlotte,North Carolina,Technology,Accessories,74
+11/23/17,Janet Martin,Charlotte,North Carolina,Technology,Phones,28
+11/23/17,Janet Martin,Charlotte,North Carolina,Office Supplies,Art,3
+10/15/15,Pete Armstrong,Orland Park,Illinois,Technology,Accessories,340
+12/25/17,Cynthia Voltz,New York City,New York,Furniture,Furnishings,42
+11/03/16,Clay Ludtke,Urbandale,Iowa,Office Supplies,Art,76
+11/03/16,Clay Ludtke,Urbandale,Iowa,Office Supplies,Binders,27
+08/25/14,Ryan Crowe,Columbus,Ohio,Office Supplies,Fasteners,40
+08/25/14,Ryan Crowe,Columbus,Ohio,Office Supplies,Envelopes,5
+08/25/14,Ryan Crowe,Columbus,Ohio,Office Supplies,Paper,24
+08/25/14,Ryan Crowe,Columbus,Ohio,Office Supplies,Envelopes,130
+03/02/15,Dave Kipp,Seattle,Washington,Furniture,Tables,788
+04/05/15,Greg Guthrie,Bristol,Tennessee,Office Supplies,Binders,158
+06/12/16,Steven Cartwright,Wilmington,Delaware,Furniture,Furnishings,47
+06/12/16,Steven Cartwright,Wilmington,Delaware,Office Supplies,Binders,31
+06/12/16,Steven Cartwright,Wilmington,Delaware,Office Supplies,Storage,227
+06/12/16,Steven Cartwright,Wilmington,Delaware,Office Supplies,Envelopes,115
+06/12/16,Steven Cartwright,Wilmington,Delaware,Technology,Phones,68
+12/26/14,Alan Dominguez,Houston,Texas,Furniture,Chairs,601
+09/20/14,Philip Fox,Bloomington,Illinois,Furniture,Tables,618
+11/05/17,Troy Staebel,Phoenix,Arizona,Office Supplies,Binders,2
+11/05/17,Troy Staebel,Phoenix,Arizona,Office Supplies,Storage,244
+11/06/16,Lindsay Shagiari,Los Angeles,California,Furniture,Chairs,81
+11/06/16,Lindsay Shagiari,Los Angeles,California,Furniture,Furnishings,239
+02/02/17,Dorothy Wardle,Columbus,Ohio,Technology,Phones,60
+02/02/17,Dorothy Wardle,Columbus,Ohio,Office Supplies,Paper,78
+02/02/17,Dorothy Wardle,Columbus,Ohio,Office Supplies,Fasteners,21
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Paper,20
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Paper,35
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Art,12
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Fasteners,4
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Binders,76
+10/13/16,Lena Creighton,Roseville,California,Office Supplies,Supplies,66
+10/13/16,Lena Creighton,Roseville,California,Furniture,Furnishings,43
+09/05/16,Jonathan Doherty,Philadelphia,Pennsylvania,Furniture,Furnishings,83
+09/18/17,Sally Hughsby,San Francisco,California,Office Supplies,Art,9
+09/18/17,Sally Hughsby,San Francisco,California,Office Supplies,Envelopes,11
+09/18/17,Sally Hughsby,San Francisco,California,Office Supplies,Paper,144
+12/22/17,Sandra Glassco,Independence,Missouri,Office Supplies,Appliances,839
+09/07/15,Helen Andreada,Pasadena,California,Office Supplies,Storage,672
+10/22/14,Maureen Gastineau,Newark,Ohio,Furniture,Furnishings,94
+12/05/16,Justin Ellison,Franklin,Wisconsin,Technology,Phones,384
+12/05/16,Justin Ellison,Franklin,Wisconsin,Technology,Phones,150
+12/05/16,Justin Ellison,Franklin,Wisconsin,Furniture,Chairs,1952
+12/05/16,Justin Ellison,Franklin,Wisconsin,Office Supplies,Binders,172
+03/13/16,Tamara Willingham,Scottsdale,Arizona,Office Supplies,Appliances,158
+03/13/16,Tamara Willingham,Scottsdale,Arizona,Technology,Phones,203
+05/31/15,Stephanie Phelps,San Jose,California,Office Supplies,Paper,58
+05/31/15,Stephanie Phelps,San Jose,California,Office Supplies,Paper,106
+05/31/15,Stephanie Phelps,San Jose,California,Office Supplies,Storage,81
+05/28/15,Neil Knudson,Seattle,Washington,Office Supplies,Art,7
+03/01/14,Dave Brooks,Seattle,Washington,Furniture,Chairs,458
+11/20/16,Nora Paige,Edmond,Oklahoma,Office Supplies,Labels,15
+11/20/16,Nora Paige,Edmond,Oklahoma,Technology,Phones,945
+05/11/16,Ted Trevino,Los Angeles,California,Office Supplies,Paper,6
+12/28/15,Eric Murdock,Philadelphia,Pennsylvania,Technology,Accessories,54
+11/16/16,Ruben Dartt,Carlsbad,New Mexico,Office Supplies,Envelopes,28
+11/07/16,Max Jones,Seattle,Washington,Office Supplies,Binders,28
+09/08/14,Becky Martin,San Antonio,Texas,Office Supplies,Art,10
+09/08/14,Becky Martin,San Antonio,Texas,Technology,Machines,8160
+09/08/14,Becky Martin,San Antonio,Texas,Office Supplies,Storage,276
+09/08/14,Becky Martin,San Antonio,Texas,Furniture,Chairs,1740
+09/08/14,Becky Martin,San Antonio,Texas,Office Supplies,Art,32
+09/08/14,Becky Martin,San Antonio,Texas,Office Supplies,Appliances,178
+09/08/14,Becky Martin,San Antonio,Texas,Technology,Phones,144
+08/05/14,Chad Sievert,Los Angeles,California,Office Supplies,Paper,21
+08/05/14,Chad Sievert,Los Angeles,California,Office Supplies,Paper,111
+08/05/14,Chad Sievert,Los Angeles,California,Furniture,Chairs,340
+09/14/14,Jennifer Braxton,Chicago,Illinois,Office Supplies,Appliances,52
+09/14/14,Jennifer Braxton,Chicago,Illinois,Office Supplies,Labels,20
+04/21/17,Shirley Jackson,Houston,Texas,Office Supplies,Appliances,97
+11/21/15,Joel Eaton,Newark,Ohio,Furniture,Chairs,397
+11/21/15,Joel Eaton,Newark,Ohio,Office Supplies,Supplies,16
+12/15/15,Jim Kriz,New York City,New York,Office Supplies,Art,3
+12/05/14,David Kendrick,Decatur,Illinois,Office Supplies,Storage,25
+12/05/14,David Kendrick,Decatur,Illinois,Technology,Accessories,409
+11/19/14,Robert Marley,Monroe,Louisiana,Technology,Phones,504
+11/19/14,Robert Marley,Monroe,Louisiana,Technology,Phones,150
+11/19/14,Robert Marley,Monroe,Louisiana,Technology,Accessories,29
+11/28/16,Sally Knutson,Fairfield,Connecticut,Office Supplies,Binders,7
+08/26/14,Frank Merwin,Los Angeles,California,Technology,Accessories,177
+07/16/16,Alice McCarthy,Grand Prairie,Texas,Office Supplies,Storage,37
+07/16/16,Alice McCarthy,Grand Prairie,Texas,Office Supplies,Paper,20
+10/12/15,Mark Packer,New York City,New York,Furniture,Bookcases,899
+10/12/15,Mark Packer,New York City,New York,Technology,Phones,72
+10/12/15,Mark Packer,New York City,New York,Office Supplies,Paper,52
+10/12/15,Mark Packer,New York City,New York,Furniture,Bookcases,626
+10/12/15,Mark Packer,New York City,New York,Office Supplies,Art,20
+10/31/15,Mary Zewe,Redlands,California,Office Supplies,Envelopes,14
+03/21/14,Cassandra Brandow,Hamilton,Ohio,Office Supplies,Art,7
+03/21/14,Cassandra Brandow,Hamilton,Ohio,Office Supplies,Art,6
+11/06/17,Valerie Mitchum,Westfield,New Jersey,Office Supplies,Storage,46
+07/06/17,Fred Hopkins,Philadelphia,Pennsylvania,Office Supplies,Binders,3
+07/06/17,Fred Hopkins,Philadelphia,Pennsylvania,Office Supplies,Paper,16
+06/24/17,Maria Bertelson,Akron,Ohio,Office Supplies,Paper,22
+08/03/14,Bruce Stewart,Denver,Colorado,Furniture,Tables,219
+08/03/14,Bruce Stewart,Denver,Colorado,Office Supplies,Appliances,3
+12/17/17,Logan Currie,Dallas,Texas,Office Supplies,Appliances,66
+06/03/17,Heather Kirkland,Franklin,Tennessee,Furniture,Furnishings,35
+12/09/17,Laurel Elliston,Whittier,California,Technology,Phones,445
+12/01/17,Joseph Holt,Saginaw,Michigan,Office Supplies,Storage,84
+12/01/17,Joseph Holt,Saginaw,Michigan,Technology,Phones,132
+12/01/17,Joseph Holt,Saginaw,Michigan,Office Supplies,Binders,16
+12/01/17,Joseph Holt,Saginaw,Michigan,Office Supplies,Fasteners,52
+12/01/17,Joseph Holt,Saginaw,Michigan,Office Supplies,Storage,92
+02/09/15,Michael Stewart,Dallas,Texas,Technology,Accessories,21
+01/02/15,Victoria Wilson,Medina,Ohio,Office Supplies,Labels,24
+01/02/15,Victoria Wilson,Medina,Ohio,Furniture,Bookcases,452
+01/02/15,Victoria Wilson,Medina,Ohio,Technology,Phones,63
+01/02/15,Victoria Wilson,Medina,Ohio,Technology,Machines,1188
+01/02/15,Victoria Wilson,Medina,Ohio,Technology,Accessories,90
+10/28/16,Jonathan Howell,Los Angeles,California,Office Supplies,Storage,93
+10/28/16,Jonathan Howell,Los Angeles,California,Technology,Phones,302
+12/24/15,Joni Blumstein,Dublin,Ohio,Office Supplies,Fasteners,6
+12/24/15,Joni Blumstein,Dublin,Ohio,Office Supplies,Paper,23
+12/24/15,Joni Blumstein,Dublin,Ohio,Office Supplies,Binders,20
+12/24/15,Joni Blumstein,Dublin,Ohio,Furniture,Furnishings,73
+12/24/15,Joni Blumstein,Dublin,Ohio,Technology,Machines,480
+12/24/15,Joni Blumstein,Dublin,Ohio,Office Supplies,Art,27
+08/09/15,David Smith,Detroit,Michigan,Office Supplies,Art,2
+08/09/15,David Smith,Detroit,Michigan,Furniture,Tables,622
+08/09/15,David Smith,Detroit,Michigan,Office Supplies,Storage,22
+02/28/15,Valerie Dominguez,Columbia,Tennessee,Furniture,Chairs,162
+02/28/15,Valerie Dominguez,Columbia,Tennessee,Furniture,Chairs,390
+09/13/14,Erin Ashbrook,Charlotte,North Carolina,Office Supplies,Binders,19
+04/07/17,Christopher Schild,Tampa,Florida,Furniture,Tables,234
+04/07/17,Christopher Schild,Tampa,Florida,Furniture,Tables,621
+04/07/17,Christopher Schild,Tampa,Florida,Office Supplies,Binders,5
+04/07/17,Christopher Schild,Tampa,Florida,Furniture,Furnishings,258
+04/07/17,Christopher Schild,Tampa,Florida,Technology,Accessories,618
+11/12/17,David Bremer,Santa Clara,California,Office Supplies,Paper,11
+06/04/16,Ken Lonsdale,Chicago,Illinois,Office Supplies,Paper,26
+06/04/16,Ken Lonsdale,Chicago,Illinois,Furniture,Furnishings,420
+06/04/16,Ken Lonsdale,Chicago,Illinois,Furniture,Furnishings,12
+06/04/16,Ken Lonsdale,Chicago,Illinois,Technology,Phones,32
+06/04/16,Ken Lonsdale,Chicago,Illinois,Furniture,Tables,177
+06/04/16,Ken Lonsdale,Chicago,Illinois,Furniture,Furnishings,4
+06/04/16,Ken Lonsdale,Chicago,Illinois,Office Supplies,Art,7
+06/01/14,Dianna Wilson,Lakeville,Minnesota,Furniture,Chairs,2002
+06/01/14,Dianna Wilson,Lakeville,Minnesota,Office Supplies,Storage,167
+06/01/14,Dianna Wilson,Lakeville,Minnesota,Office Supplies,Paper,48
+06/01/14,Dianna Wilson,Lakeville,Minnesota,Office Supplies,Appliances,1503
+06/01/14,Dianna Wilson,Lakeville,Minnesota,Office Supplies,Paper,26
+12/10/16,Logan Haushalter,San Francisco,California,Furniture,Chairs,322
+09/11/16,Kelly Collister,San Diego,California,Office Supplies,Paper,8
+09/11/16,Kelly Collister,San Diego,California,Technology,Accessories,3347
+12/10/16,Delfina Latchford,New York City,New York,Office Supplies,Storage,81
+12/10/16,Delfina Latchford,New York City,New York,Office Supplies,Envelopes,362
+11/28/15,Dan Reichenbach,Chicago,Illinois,Furniture,Furnishings,12
+11/28/15,Dan Reichenbach,Chicago,Illinois,Office Supplies,Storage,82
+11/28/15,Dan Reichenbach,Chicago,Illinois,Office Supplies,Storage,54
+11/28/15,Dan Reichenbach,Chicago,Illinois,Technology,Phones,648
+12/01/17,Craig Carreira,New York City,New York,Technology,Accessories,20
+12/01/17,Craig Carreira,New York City,New York,Office Supplies,Storage,222
+12/01/17,Craig Carreira,New York City,New York,Office Supplies,Binders,18
+06/08/17,Dorris liebe,Pasadena,Texas,Office Supplies,Appliances,2
+09/19/14,Sean Braxton,Houston,Texas,Technology,Machines,3060
+09/19/14,Sean Braxton,Houston,Texas,Technology,Machines,2520
+06/06/16,Roy Collins,Chicago,Illinois,Technology,Phones,328
+11/10/15,Alan Hwang,Brentwood,California,Technology,Accessories,80
+06/16/17,Claudia Bergmann,Chapel Hill,North Carolina,Office Supplies,Art,14
+01/22/16,Paul Gonzalez,Morristown,New Jersey,Office Supplies,Fasteners,8
+12/09/17,Christine Abelman,Cincinnati,Ohio,Office Supplies,Storage,37
+12/09/17,Christine Abelman,Cincinnati,Ohio,Office Supplies,Envelopes,58
+12/28/17,Kristen Hastings,San Francisco,California,Office Supplies,Storage,726
+07/30/15,Helen Andreada,San Francisco,California,Technology,Accessories,210
+07/30/15,Helen Andreada,San Francisco,California,Furniture,Furnishings,5
+07/30/15,Helen Andreada,San Francisco,California,Office Supplies,Binders,11
+09/16/17,Barry Blumstein,Inglewood,California,Office Supplies,Paper,9
+09/16/17,Barry Blumstein,Inglewood,California,Office Supplies,Art,6
+10/13/17,Andrew Gjertsen,Philadelphia,Pennsylvania,Office Supplies,Paper,12
+10/13/17,Andrew Gjertsen,Philadelphia,Pennsylvania,Office Supplies,Paper,18
+10/13/17,Andrew Gjertsen,Philadelphia,Pennsylvania,Office Supplies,Storage,60
+10/13/17,Andrew Gjertsen,Philadelphia,Pennsylvania,Office Supplies,Labels,25
+09/26/15,Steven Cartwright,Houston,Texas,Office Supplies,Binders,2
+09/26/15,Steven Cartwright,Houston,Texas,Technology,Phones,1114
+11/02/15,Jas O'Carroll,Los Angeles,California,Furniture,Tables,1039
+09/26/15,Tracy Blumstein,Portland,Oregon,Office Supplies,Paper,142
+09/26/15,Tracy Blumstein,Portland,Oregon,Technology,Accessories,240
+09/26/15,Tracy Blumstein,Portland,Oregon,Office Supplies,Paper,31
+12/18/16,Alan Haines,Tamarac,Florida,Office Supplies,Binders,254
+12/18/16,Alan Haines,Tamarac,Florida,Office Supplies,Appliances,195
+12/18/16,Alan Haines,Tamarac,Florida,Office Supplies,Supplies,961
+11/20/16,Nick Zandusky,Columbus,Ohio,Office Supplies,Fasteners,19
+11/20/16,Nick Zandusky,Columbus,Ohio,Office Supplies,Labels,18
+11/20/16,Nick Zandusky,Columbus,Ohio,Technology,Accessories,256
+11/20/16,Nick Zandusky,Columbus,Ohio,Furniture,Bookcases,87
+12/26/14,Kelly Lampkin,Colorado Springs,Colorado,Furniture,Furnishings,300
+12/26/14,Kelly Lampkin,Colorado Springs,Colorado,Furniture,Chairs,230
+12/26/14,Kelly Lampkin,Colorado Springs,Colorado,Furniture,Furnishings,218
+12/26/14,Kelly Lampkin,Colorado Springs,Colorado,Office Supplies,Binders,79
+12/26/14,Kelly Lampkin,Colorado Springs,Colorado,Office Supplies,Fasteners,28
+10/28/16,Jonathan Doherty,Belleville,New Jersey,Office Supplies,Paper,32
+10/28/16,Jonathan Doherty,Belleville,New Jersey,Office Supplies,Storage,1082
+10/28/16,Jonathan Doherty,Belleville,New Jersey,Office Supplies,Paper,57
+10/28/16,Jonathan Doherty,Belleville,New Jersey,Furniture,Furnishings,78
+10/28/16,Jonathan Doherty,Belleville,New Jersey,Office Supplies,Binders,14
+11/19/17,Jonathan Howell,Chicago,Illinois,Furniture,Tables,219
+05/04/15,Alan Schoenberger,New York City,New York,Furniture,Furnishings,27
+12/30/14,Ken Brennan,Taylor,Michigan,Office Supplies,Art,10
+06/01/14,Corey Roper,Lakewood,New Jersey,Office Supplies,Binders,45
+06/01/14,Corey Roper,Lakewood,New Jersey,Office Supplies,Art,289
+04/15/17,Shahid Hopkins,Arlington,Virginia,Office Supplies,Art,5
+09/12/16,Ben Peterman,Arvada,Colorado,Furniture,Furnishings,15
+09/12/16,Ben Peterman,Arvada,Colorado,Furniture,Chairs,467
+09/12/16,Ben Peterman,Arvada,Colorado,Furniture,Furnishings,15
+09/12/16,Ben Peterman,Arvada,Colorado,Office Supplies,Labels,6
+09/27/14,Thomas Seio,Hackensack,New Jersey,Furniture,Furnishings,88
+08/09/14,Andy Gerbode,Saint Petersburg,Florida,Technology,Phones,178
+08/09/14,Andy Gerbode,Saint Petersburg,Florida,Office Supplies,Paper,16
+12/28/14,Sung Pak,Philadelphia,Pennsylvania,Office Supplies,Art,99
+11/04/14,Nathan Mautz,New York City,New York,Furniture,Chairs,136
+11/04/14,Nathan Mautz,New York City,New York,Technology,Machines,3992
+11/04/14,Nathan Mautz,New York City,New York,Technology,Phones,276
+11/04/14,Nathan Mautz,New York City,New York,Technology,Accessories,360
+11/04/14,Nathan Mautz,New York City,New York,Office Supplies,Storage,44
+09/19/14,Frank Atkinson,Long Beach,California,Office Supplies,Fasteners,7
+04/23/16,Grace Kelly,Hesperia,California,Office Supplies,Binders,252
+04/23/16,Grace Kelly,Hesperia,California,Technology,Accessories,100
+11/03/17,Don Jones,Murfreesboro,Tennessee,Furniture,Furnishings,16
+08/30/16,Patrick O'Brill,Philadelphia,Pennsylvania,Technology,Phones,291
+08/30/16,Patrick O'Brill,Philadelphia,Pennsylvania,Office Supplies,Storage,54
+08/30/16,Patrick O'Brill,Philadelphia,Pennsylvania,Furniture,Chairs,787
+08/30/16,Patrick O'Brill,Philadelphia,Pennsylvania,Office Supplies,Labels,100
+08/30/16,Patrick O'Brill,Philadelphia,Pennsylvania,Office Supplies,Binders,38
+04/25/16,John Lucas,Philadelphia,Pennsylvania,Technology,Phones,83
+04/25/16,John Lucas,Philadelphia,Pennsylvania,Office Supplies,Binders,21
+04/25/16,John Lucas,Philadelphia,Pennsylvania,Office Supplies,Binders,5
+09/01/15,Doug Bickford,Los Angeles,California,Office Supplies,Binders,5
+09/01/15,Doug Bickford,Los Angeles,California,Technology,Copiers,960
+09/01/15,Doug Bickford,Los Angeles,California,Office Supplies,Binders,14
+07/12/14,Alyssa Crouse,San Francisco,California,Office Supplies,Binders,8
+07/12/14,Alyssa Crouse,San Francisco,California,Furniture,Tables,698
+06/22/15,Ken Lonsdale,Layton,Utah,Office Supplies,Fasteners,5
+04/13/14,Jonathan Doherty,Philadelphia,Pennsylvania,Office Supplies,Art,18
+04/13/14,Jonathan Doherty,Philadelphia,Pennsylvania,Office Supplies,Binders,510
+04/13/14,Jonathan Doherty,Philadelphia,Pennsylvania,Office Supplies,Fasteners,31
+04/13/14,Jonathan Doherty,Philadelphia,Pennsylvania,Technology,Phones,72
+12/20/15,Chad Sievert,Austin,Texas,Office Supplies,Storage,89
+06/15/17,Clay Cheatham,San Francisco,California,Technology,Phones,48
+07/08/17,Tamara Dahlen,Lowell,Massachusetts,Office Supplies,Art,8
+07/08/17,Tamara Dahlen,Lowell,Massachusetts,Office Supplies,Paper,25
+07/08/17,Tamara Dahlen,Lowell,Massachusetts,Office Supplies,Art,13
+09/01/16,Adam Bellavance,New York City,New York,Technology,Accessories,7
+09/01/16,Adam Bellavance,New York City,New York,Office Supplies,Paper,25
+09/01/16,Adam Bellavance,New York City,New York,Office Supplies,Binders,3
+09/01/16,Adam Bellavance,New York City,New York,Office Supplies,Paper,49
+09/01/16,Adam Bellavance,New York City,New York,Office Supplies,Binders,4355
+04/08/16,Jeremy Lonsdale,New York City,New York,Furniture,Bookcases,389
+04/08/16,Jeremy Lonsdale,New York City,New York,Office Supplies,Envelopes,8
+04/08/16,Jeremy Lonsdale,New York City,New York,Office Supplies,Art,17
+04/08/16,Jeremy Lonsdale,New York City,New York,Office Supplies,Paper,34
+04/23/16,Heather Kirkland,Charlotte,North Carolina,Office Supplies,Paper,36
+03/08/17,Victoria Brennan,Columbus,Georgia,Office Supplies,Appliances,648
+03/08/17,Victoria Brennan,Columbus,Georgia,Office Supplies,Labels,21
+09/25/17,Katrina Willman,New York City,New York,Office Supplies,Labels,21
+09/25/17,Katrina Willman,New York City,New York,Furniture,Chairs,489
+09/25/17,Katrina Willman,New York City,New York,Office Supplies,Art,6
+09/25/17,Katrina Willman,New York City,New York,Furniture,Furnishings,47
+09/24/14,Julia Dunbar,San Francisco,California,Office Supplies,Storage,212
+10/21/16,Michael Kennedy,Manchester,Connecticut,Office Supplies,Binders,23
+10/21/16,Michael Kennedy,Manchester,Connecticut,Office Supplies,Supplies,7
+10/21/16,Michael Kennedy,Manchester,Connecticut,Office Supplies,Storage,105
+10/21/16,Michael Kennedy,Manchester,Connecticut,Furniture,Bookcases,1044
+05/29/17,Guy Thornton,Harlingen,Texas,Office Supplies,Paper,26
+05/29/17,Guy Thornton,Harlingen,Texas,Office Supplies,Storage,53
+07/23/14,Arthur Gainer,Tucson,Arizona,Office Supplies,Binders,8
+07/23/14,Arthur Gainer,Tucson,Arizona,Technology,Accessories,1024
+07/23/14,Arthur Gainer,Tucson,Arizona,Office Supplies,Art,9
+07/23/14,Arthur Gainer,Tucson,Arizona,Technology,Accessories,479
+09/28/16,Muhammed MacIntyre,Quincy,Illinois,Office Supplies,Paper,99
+08/27/17,Allen Rosenblatt,Franklin,Massachusetts,Furniture,Tables,1488
+04/28/15,Russell Applegate,Houston,Texas,Office Supplies,Appliances,9
+04/28/15,Russell Applegate,Houston,Texas,Office Supplies,Storage,24
+04/28/15,Russell Applegate,Houston,Texas,Office Supplies,Binders,12
+10/28/16,Alejandro Savely,San Francisco,California,Office Supplies,Paper,51
+10/28/16,Alejandro Savely,San Francisco,California,Office Supplies,Binders,50
+06/26/15,Laura Armstrong,Taylor,Michigan,Technology,Accessories,42
+11/27/15,Denny Ordway,Pembroke Pines,Florida,Furniture,Tables,375
+11/27/15,Denny Ordway,Pembroke Pines,Florida,Technology,Accessories,84
+12/03/15,Dean Katz,Philadelphia,Pennsylvania,Technology,Machines,482
+12/03/15,Dean Katz,Philadelphia,Pennsylvania,Furniture,Furnishings,3
+11/24/14,Nathan Gelder,Cincinnati,Ohio,Office Supplies,Art,3
+12/11/17,Mike Vittorini,New York City,New York,Office Supplies,Binders,23
+12/11/17,Mike Vittorini,New York City,New York,Technology,Accessories,40
+09/21/14,Jack Garza,Des Moines,Washington,Technology,Phones,246
+09/21/14,Jack Garza,Des Moines,Washington,Technology,Copiers,1800
+06/07/14,Bart Pistole,Peoria,Illinois,Office Supplies,Binders,12
+06/30/17,Victor Preis,Las Vegas,Nevada,Office Supplies,Binders,76
+10/17/17,Saphhira Shifley,Warwick,Rhode Island,Office Supplies,Storage,50
+10/17/17,Saphhira Shifley,Warwick,Rhode Island,Office Supplies,Paper,13
+10/31/15,Harold Pawlan,Jackson,Michigan,Office Supplies,Supplies,70
+09/08/16,Anna Gayman,Houston,Texas,Office Supplies,Storage,36
+09/08/16,Anna Gayman,Houston,Texas,Furniture,Bookcases,2396
+09/08/16,Anna Gayman,Houston,Texas,Office Supplies,Storage,131
+09/08/16,Anna Gayman,Houston,Texas,Technology,Accessories,58
+12/24/14,Luke Foster,Miami,Florida,Office Supplies,Paper,10
+04/16/14,Stephanie Phelps,Wilmington,North Carolina,Office Supplies,Art,39
+12/24/17,Roy Französisch,New York City,New York,Office Supplies,Appliances,36
+12/08/17,Keith Herrera,San Francisco,California,Technology,Accessories,180
+12/08/17,Keith Herrera,San Francisco,California,Technology,Copiers,1200
+12/08/17,Keith Herrera,San Francisco,California,Office Supplies,Paper,27
+12/08/17,Keith Herrera,San Francisco,California,Furniture,Tables,1004
+12/08/17,Keith Herrera,San Francisco,California,Office Supplies,Paper,10
+12/08/17,Keith Herrera,San Francisco,California,Office Supplies,Labels,28
+12/08/17,Keith Herrera,San Francisco,California,Office Supplies,Paper,56
+12/08/17,Keith Herrera,San Francisco,California,Furniture,Bookcases,1337
+12/08/17,Keith Herrera,San Francisco,California,Furniture,Chairs,114
+11/03/17,Kimberly Carter,Seattle,Washington,Office Supplies,Paper,140
+11/03/17,Kimberly Carter,Seattle,Washington,Furniture,Chairs,307
+06/24/17,Caroline Jumper,Huntington Beach,California,Office Supplies,Art,96
+04/14/16,Philip Brown,Los Angeles,California,Furniture,Chairs,384
+11/06/17,Victoria Brennan,Richmond,Kentucky,Office Supplies,Paper,6
+03/04/17,Sung Pak,Los Angeles,California,Office Supplies,Art,9
+03/04/17,Sung Pak,Los Angeles,California,Office Supplies,Envelopes,15
+06/22/14,Joel Eaton,Louisville,Colorado,Technology,Accessories,197
+10/19/17,Michael Paige,Lawrence,Massachusetts,Furniture,Furnishings,57
+10/19/17,Michael Paige,Lawrence,Massachusetts,Office Supplies,Storage,33
+08/21/17,Natalie Fritzler,Jackson,Mississippi,Furniture,Chairs,866
+11/23/17,Janet Molinari,Canton,Michigan,Furniture,Furnishings,28
+11/23/17,Janet Molinari,Canton,Michigan,Office Supplies,Binders,288
+09/12/14,Shirley Daniels,New Rochelle,New York,Technology,Machines,70
+10/01/17,Ken Heidel,San Antonio,Texas,Office Supplies,Art,7
+04/15/16,Ross Baird,Gastonia,North Carolina,Office Supplies,Binders,190
+04/15/16,Ross Baird,Gastonia,North Carolina,Technology,Accessories,409
+04/15/16,Ross Baird,Gastonia,North Carolina,Technology,Accessories,292
+04/15/16,Ross Baird,Gastonia,North Carolina,Office Supplies,Storage,5
+06/06/16,Dave Brooks,Lowell,Massachusetts,Office Supplies,Storage,714
+12/19/14,Mike Kennedy,Jacksonville,Florida,Office Supplies,Binders,5
+12/19/14,Mike Kennedy,Jacksonville,Florida,Technology,Accessories,248
+06/12/16,Philisse Overcash,Chicago,Illinois,Technology,Machines,1008
+06/12/16,Philisse Overcash,Chicago,Illinois,Office Supplies,Paper,313
+09/15/17,Brenda Bowman,Houston,Texas,Office Supplies,Paper,32
+01/20/17,Cynthia Voltz,New York City,New York,Furniture,Chairs,208
+09/05/16,Pete Kriz,Detroit,Michigan,Furniture,Furnishings,12
+09/05/16,Pete Kriz,Detroit,Michigan,Office Supplies,Storage,195
+09/05/16,Pete Kriz,Detroit,Michigan,Office Supplies,Storage,71
+09/05/16,Pete Kriz,Detroit,Michigan,Office Supplies,Paper,91
+09/05/16,Pete Kriz,Detroit,Michigan,Furniture,Chairs,243
+09/05/16,Pete Kriz,Detroit,Michigan,Office Supplies,Labels,22
+03/20/17,Troy Blackwell,Columbus,Indiana,Furniture,Furnishings,3
+04/01/16,Raymond Buch,Auburn,New York,Office Supplies,Art,60
+04/01/16,Raymond Buch,Auburn,New York,Office Supplies,Storage,162
+04/01/16,Raymond Buch,Auburn,New York,Office Supplies,Art,264
+04/01/16,Raymond Buch,Auburn,New York,Office Supplies,Art,30
+04/01/16,Raymond Buch,Auburn,New York,Office Supplies,Art,10
+04/01/16,Raymond Buch,Auburn,New York,Technology,Phones,35
+10/20/17,Ed Braxton,Akron,Ohio,Furniture,Tables,284
+10/20/17,Ed Braxton,Akron,Ohio,Office Supplies,Storage,665
+12/13/16,Ken Heidel,Norman,Oklahoma,Technology,Accessories,64
+02/12/14,Sanjit Chand,Concord,California,Furniture,Chairs,130
+09/26/16,Natalie Fritzler,Decatur,Illinois,Furniture,Chairs,748
+09/26/16,Natalie Fritzler,Decatur,Illinois,Office Supplies,Envelopes,9
+12/15/15,Joseph Holt,Seattle,Washington,Office Supplies,Appliances,104
+12/15/15,Joseph Holt,Seattle,Washington,Technology,Accessories,900
+12/15/15,Joseph Holt,Seattle,Washington,Office Supplies,Binders,51
+04/22/16,Tanja Norvell,Phoenix,Arizona,Furniture,Furnishings,24
+04/22/16,Tanja Norvell,Phoenix,Arizona,Furniture,Tables,1273
+04/22/16,Tanja Norvell,Phoenix,Arizona,Office Supplies,Binders,28
+04/22/16,Tanja Norvell,Phoenix,Arizona,Office Supplies,Supplies,185
+04/22/16,Tanja Norvell,Phoenix,Arizona,Office Supplies,Appliances,78
+01/17/15,Joni Sundaresam,Park Ridge,Illinois,Furniture,Furnishings,255
+03/31/17,David Smith,Amarillo,Texas,Furniture,Bookcases,205
+12/16/16,Craig Carreira,Chicago,Illinois,Office Supplies,Binders,5
+12/20/15,Maya Herman,Lindenhurst,New York,Office Supplies,Paper,55
+11/09/14,Jeremy Pistek,San Francisco,California,Office Supplies,Storage,341
+11/09/14,Jeremy Pistek,San Francisco,California,Furniture,Bookcases,223
+11/09/14,Jeremy Pistek,San Francisco,California,Technology,Phones,704
+11/09/14,Jeremy Pistek,San Francisco,California,Office Supplies,Storage,93
+11/09/14,Jeremy Pistek,San Francisco,California,Office Supplies,Paper,63
+11/09/14,Jeremy Pistek,San Francisco,California,Office Supplies,Paper,95
+07/12/16,Kristen Hastings,Los Angeles,California,Technology,Phones,96
+10/27/16,Jeremy Ellison,Troy,New York,Furniture,Furnishings,40
+06/26/16,John Grady,New York City,New York,Office Supplies,Art,15
+06/26/16,John Grady,New York City,New York,Office Supplies,Storage,704
+10/06/14,Xylona Preis,San Diego,California,Technology,Accessories,9
+07/22/14,Erin Mull,New York City,New York,Office Supplies,Art,6
+07/22/14,Erin Mull,New York City,New York,Technology,Accessories,160
+06/10/17,Michelle Tran,Los Angeles,California,Office Supplies,Labels,30
+06/10/17,Michelle Tran,Los Angeles,California,Furniture,Bookcases,514
+06/10/17,Michelle Tran,Los Angeles,California,Technology,Phones,280
+10/29/14,Sue Ann Reed,Chicago,Illinois,Technology,Phones,2736
+06/09/14,Carl Weiss,Huntsville,Texas,Technology,Phones,8
+06/09/14,Carl Weiss,Huntsville,Texas,Technology,Accessories,64
+06/09/14,Carl Weiss,Huntsville,Texas,Office Supplies,Art,70
+09/14/14,Astrea Jones,Rochester,New York,Office Supplies,Storage,449
+09/14/14,Astrea Jones,Rochester,New York,Office Supplies,Envelopes,11
+05/09/16,Sonia Sunley,Seattle,Washington,Technology,Accessories,94
+03/18/16,Rose O'Brian,Memphis,Tennessee,Furniture,Tables,190
+12/27/15,Maribeth Dona,Fayetteville,Arkansas,Office Supplies,Envelopes,105
+07/25/16,Sanjit Chand,Costa Mesa,California,Office Supplies,Binders,120
+07/25/16,Sanjit Chand,Costa Mesa,California,Furniture,Furnishings,256
+07/25/16,Sanjit Chand,Costa Mesa,California,Furniture,Chairs,242
+07/25/16,Sanjit Chand,Costa Mesa,California,Furniture,Furnishings,69
+05/30/16,Maribeth Yedwab,Parker,Colorado,Office Supplies,Binders,23
+05/30/16,Maribeth Yedwab,Parker,Colorado,Office Supplies,Binders,15
+05/30/16,Maribeth Yedwab,Parker,Colorado,Furniture,Chairs,802
+05/30/16,Maribeth Yedwab,Parker,Colorado,Office Supplies,Binders,2
+05/30/16,Maribeth Yedwab,Parker,Colorado,Office Supplies,Paper,33
+11/12/17,Ed Braxton,New York City,New York,Office Supplies,Binders,16
+03/16/15,Christopher Martinez,Atlanta,Georgia,Office Supplies,Art,3
+03/16/15,Christopher Martinez,Atlanta,Georgia,Office Supplies,Art,8
+03/16/15,Christopher Martinez,Atlanta,Georgia,Office Supplies,Storage,47
+03/16/15,Christopher Martinez,Atlanta,Georgia,Office Supplies,Binders,6355
+11/26/17,Lynn Smith,Gladstone,Missouri,Furniture,Furnishings,126
+11/26/17,Lynn Smith,Gladstone,Missouri,Technology,Accessories,38
+10/20/16,Luke Foster,Newark,Ohio,Office Supplies,Art,7
+12/21/17,Bradley Nguyen,Los Angeles,California,Office Supplies,Art,7
+12/21/17,Bradley Nguyen,Los Angeles,California,Office Supplies,Art,6
+01/22/17,Alan Dominguez,Great Falls,Montana,Technology,Copiers,3000
+01/22/17,Alan Dominguez,Great Falls,Montana,Office Supplies,Storage,51
+01/22/17,Alan Dominguez,Great Falls,Montana,Office Supplies,Paper,12
+01/22/17,Alan Dominguez,Great Falls,Montana,Office Supplies,Storage,1126
+03/22/15,Dean Braden,Houston,Texas,Technology,Accessories,18
+03/22/15,Dean Braden,Houston,Texas,Office Supplies,Storage,130
+03/22/15,Dean Braden,Houston,Texas,Office Supplies,Binders,14
+01/23/17,Matt Connell,Detroit,Michigan,Furniture,Tables,211
+05/21/16,Logan Haushalter,Los Angeles,California,Technology,Phones,55
+05/21/16,Logan Haushalter,Los Angeles,California,Technology,Accessories,66
+12/26/15,Brian Dahlen,Lawrence,Massachusetts,Office Supplies,Fasteners,22
+10/21/17,Patricia Hirasaki,Lakeland,Florida,Furniture,Chairs,684
+10/21/17,Patricia Hirasaki,Lakeland,Florida,Furniture,Furnishings,46
+09/03/15,Mike Gockenbach,Philadelphia,Pennsylvania,Office Supplies,Storage,36
+09/03/15,Mike Gockenbach,Philadelphia,Pennsylvania,Office Supplies,Supplies,666
+09/03/15,Mike Gockenbach,Philadelphia,Pennsylvania,Office Supplies,Envelopes,53
+11/07/15,Karen Bern,Los Angeles,California,Furniture,Chairs,191
+09/07/17,Jasper Cacioppo,Los Angeles,California,Furniture,Furnishings,48
+05/29/16,Rob Lucas,Montgomery,Alabama,Technology,Phones,980
+05/29/16,Rob Lucas,Montgomery,Alabama,Office Supplies,Binders,23
+07/10/16,Allen Armold,Mesa,Arizona,Office Supplies,Storage,17
+09/03/17,Emily Phan,Chicago,Illinois,Office Supplies,Binders,43
+12/03/15,Mark Packer,New York City,New York,Office Supplies,Binders,11
+12/07/15,Darren Koutras,Henderson,Kentucky,Office Supplies,Appliances,153
+12/07/15,Darren Koutras,Henderson,Kentucky,Furniture,Chairs,284
+02/01/14,Bradley Drucker,Green Bay,Wisconsin,Technology,Accessories,469
+07/14/16,Erin Smith,Tucson,Arizona,Technology,Phones,381
+12/18/15,Liz MacKendrick,Springfield,Ohio,Office Supplies,Storage,647
+05/11/14,Paul Gonzalez,Fort Worth,Texas,Technology,Accessories,58
+05/11/14,Paul Gonzalez,Fort Worth,Texas,Technology,Phones,101
+05/11/14,Paul Gonzalez,Fort Worth,Texas,Furniture,Furnishings,66
+11/19/17,Adrian Shami,New York City,New York,Office Supplies,Binders,41
+11/19/17,Adrian Shami,New York City,New York,Office Supplies,Paper,13
+11/15/15,Dean Katz,Chicago,Illinois,Office Supplies,Storage,250
+11/15/15,Dean Katz,Chicago,Illinois,Office Supplies,Binders,11
+11/15/15,Dean Katz,Chicago,Illinois,Office Supplies,Supplies,9
+04/15/16,Bill Donatelli,San Francisco,California,Furniture,Chairs,1122
+09/11/17,Ryan Crowe,Jacksonville,Florida,Furniture,Furnishings,35
+11/24/17,Greg Tran,Houston,Texas,Office Supplies,Fasteners,11
+06/29/17,Dean Katz,Anaheim,California,Office Supplies,Storage,1296
+03/03/14,Ashley Jarboe,Wilmington,North Carolina,Office Supplies,Art,19
+06/10/16,Olvera Toch,Los Angeles,California,Office Supplies,Labels,21
+06/10/16,Olvera Toch,Los Angeles,California,Furniture,Tables,1336
+06/10/16,Olvera Toch,Los Angeles,California,Office Supplies,Paper,32
+11/20/17,Liz Pelletier,San Francisco,California,Furniture,Furnishings,43
+11/20/17,Liz Pelletier,San Francisco,California,Office Supplies,Binders,84
+09/14/14,Cynthia Arntzen,Tampa,Florida,Office Supplies,Appliances,13
+09/14/14,Cynthia Arntzen,Tampa,Florida,Furniture,Furnishings,13
+12/07/15,Jeremy Farry,Seattle,Washington,Office Supplies,Fasteners,4
+12/07/15,Jeremy Farry,Seattle,Washington,Office Supplies,Labels,3
+12/07/17,Frank Preis,Los Angeles,California,Technology,Phones,374
+10/01/17,Ellis Ballard,Seattle,Washington,Office Supplies,Paper,92
+10/01/17,Ellis Ballard,Seattle,Washington,Office Supplies,Binders,81
+10/01/17,Ellis Ballard,Seattle,Washington,Office Supplies,Paper,19
+10/01/17,Ellis Ballard,Seattle,Washington,Furniture,Chairs,451
+12/28/17,Jennifer Ferguson,New York City,New York,Office Supplies,Labels,72
+12/28/17,Jennifer Ferguson,New York City,New York,Office Supplies,Fasteners,14
+12/28/17,Jennifer Ferguson,New York City,New York,Office Supplies,Binders,33
+12/28/17,Jennifer Ferguson,New York City,New York,Technology,Phones,15
+11/03/16,Sarah Foster,Marysville,Washington,Office Supplies,Art,9
+09/18/15,Trudy Glocke,Long Beach,California,Office Supplies,Paper,161
+09/18/15,Trudy Glocke,Long Beach,California,Office Supplies,Paper,20
+09/18/15,Trudy Glocke,Long Beach,California,Office Supplies,Supplies,7
+07/20/17,Carlos Soltero,Chicago,Illinois,Office Supplies,Storage,70
+07/20/17,Carlos Soltero,Chicago,Illinois,Furniture,Furnishings,9
+09/10/15,Charles Crestani,Los Angeles,California,Office Supplies,Supplies,52
+12/01/17,Dianna Vittorini,Denver,Colorado,Technology,Phones,470
+12/01/17,Dianna Vittorini,Denver,Colorado,Technology,Phones,106
+12/01/17,Dianna Vittorini,Denver,Colorado,Office Supplies,Appliances,31
+12/01/17,Dianna Vittorini,Denver,Colorado,Office Supplies,Binders,7
+12/01/17,Dianna Vittorini,Denver,Colorado,Technology,Phones,406
+07/03/15,Bruce Degenhardt,Richmond,Kentucky,Furniture,Chairs,71
+07/03/15,Bruce Degenhardt,Richmond,Kentucky,Office Supplies,Labels,295
+03/20/16,Zuschuss Carroll,Salem,Oregon,Technology,Phones,85
+03/20/16,Zuschuss Carroll,Salem,Oregon,Office Supplies,Paper,21
+03/20/16,Zuschuss Carroll,Salem,Oregon,Office Supplies,Binders,17
+03/20/16,Zuschuss Carroll,Salem,Oregon,Office Supplies,Paper,10
+01/09/14,Melanie Seite,Laredo,Texas,Office Supplies,Art,9
+01/09/14,Melanie Seite,Laredo,Texas,Technology,Accessories,31
+08/08/14,Lena Radford,San Diego,California,Office Supplies,Appliances,76
+08/08/14,Lena Radford,San Diego,California,Technology,Copiers,1200
+08/08/14,Lena Radford,San Diego,California,Technology,Phones,446
+08/08/14,Lena Radford,San Diego,California,Furniture,Furnishings,328
+07/14/16,Theone Pippenger,Philadelphia,Pennsylvania,Office Supplies,Supplies,12
+07/16/16,Chloris Kastensmidt,Philadelphia,Pennsylvania,Technology,Phones,144
+07/16/16,Chloris Kastensmidt,Philadelphia,Pennsylvania,Technology,Phones,494
+07/16/16,Chloris Kastensmidt,Philadelphia,Pennsylvania,Office Supplies,Supplies,6
+03/15/14,Alan Shonely,Tampa,Florida,Office Supplies,Storage,143
+03/15/14,Alan Shonely,Tampa,Florida,Furniture,Furnishings,46
+03/15/14,Alan Shonely,Tampa,Florida,Office Supplies,Binders,7
+03/15/14,Alan Shonely,Tampa,Florida,Office Supplies,Binders,43
+03/15/14,Alan Shonely,Tampa,Florida,Office Supplies,Paper,132
+05/23/14,Andrew Roberts,Philadelphia,Pennsylvania,Office Supplies,Binders,3
+05/23/14,Andrew Roberts,Philadelphia,Pennsylvania,Office Supplies,Art,21
+05/23/14,Andrew Roberts,Philadelphia,Pennsylvania,Technology,Phones,55
+04/28/16,Nona Balk,Dallas,Texas,Technology,Phones,370
+04/28/16,Nona Balk,Dallas,Texas,Office Supplies,Labels,16
+09/11/16,Giulietta Dortch,Philadelphia,Pennsylvania,Office Supplies,Paper,8
+09/11/16,Giulietta Dortch,Philadelphia,Pennsylvania,Technology,Phones,729
+11/14/17,Clytie Kelty,Grove City,Ohio,Technology,Phones,120
+11/14/17,Clytie Kelty,Grove City,Ohio,Office Supplies,Binders,4
+08/18/17,Nat Gilpin,New York City,New York,Furniture,Furnishings,40
+08/18/17,Nat Gilpin,New York City,New York,Furniture,Furnishings,10
+08/18/17,Nat Gilpin,New York City,New York,Office Supplies,Binders,107
+08/18/17,Nat Gilpin,New York City,New York,Technology,Phones,38
+08/18/17,Nat Gilpin,New York City,New York,Furniture,Furnishings,88
+12/26/14,Christina Anderson,Chicago,Illinois,Office Supplies,Binders,9
+11/29/15,Sylvia Foulston,Dearborn,Michigan,Furniture,Chairs,302
+11/29/15,Sylvia Foulston,Dearborn,Michigan,Office Supplies,Appliances,555
+11/29/15,Sylvia Foulston,Dearborn,Michigan,Office Supplies,Storage,523
+11/29/15,Sylvia Foulston,Dearborn,Michigan,Office Supplies,Art,162
+09/15/17,Meg O'Connel,New York City,New York,Furniture,Furnishings,36
+05/19/17,Annie Thurman,Seattle,Washington,Office Supplies,Appliances,97
+12/17/17,Logan Currie,San Francisco,California,Office Supplies,Binders,15
+12/17/17,Logan Currie,San Francisco,California,Office Supplies,Paper,13
+12/11/16,Fred McMath,Aurora,Colorado,Office Supplies,Storage,243
+12/11/16,Fred McMath,Aurora,Colorado,Technology,Accessories,120
+12/11/16,Fred McMath,Aurora,Colorado,Technology,Phones,301
+09/24/17,Brian Dahlen,Miami,Florida,Technology,Accessories,18
+09/24/17,Brian Dahlen,Miami,Florida,Office Supplies,Labels,236
+10/04/15,Denny Joy,Warner Robins,Georgia,Furniture,Chairs,393
+08/15/16,Max Engle,Aurora,Colorado,Office Supplies,Binders,19
+08/15/16,Max Engle,Aurora,Colorado,Office Supplies,Appliances,122
+05/20/16,Rick Bensley,Vallejo,California,Furniture,Furnishings,1049
+05/20/16,Rick Bensley,Vallejo,California,Office Supplies,Binders,15
+12/18/16,Justin Deggeller,Minneapolis,Minnesota,Furniture,Furnishings,19
+07/30/17,John Lee,Mission Viejo,California,Office Supplies,Storage,330
+07/30/17,John Lee,Mission Viejo,California,Office Supplies,Labels,26
+06/10/17,Sean Christensen,Rochester Hills,Michigan,Technology,Accessories,133
+07/21/17,Tamara Willingham,Plainfield,New Jersey,Office Supplies,Paper,6
+12/30/17,Chuck Clark,Columbus,Indiana,Office Supplies,Appliances,209
+04/01/16,Barry Blumstein,Sierra Vista,Arizona,Office Supplies,Fasteners,32
+04/01/16,Barry Blumstein,Sierra Vista,Arizona,Office Supplies,Appliances,30
+12/11/16,Anthony Rawles,Vancouver,Washington,Furniture,Furnishings,15
+12/11/16,Anthony Rawles,Vancouver,Washington,Technology,Phones,302
+12/11/16,Anthony Rawles,Vancouver,Washington,Technology,Accessories,316
+10/23/16,Steven Roelle,New York City,New York,Office Supplies,Paper,379
+06/19/17,Allen Rosenblatt,New York City,New York,Office Supplies,Paper,98
+06/19/17,Allen Rosenblatt,New York City,New York,Technology,Accessories,103
+08/22/16,Craig Reiter,Columbus,Ohio,Office Supplies,Appliances,114
+08/22/16,Craig Reiter,Columbus,Ohio,Office Supplies,Binders,3
+08/22/16,Craig Reiter,Columbus,Ohio,Office Supplies,Envelopes,134
+09/19/16,Eugene Hildebrand,Aurora,Illinois,Furniture,Chairs,701
+09/19/16,Eugene Hildebrand,Aurora,Illinois,Office Supplies,Binders,2
+08/24/15,Cassandra Brandow,Arlington,Texas,Office Supplies,Storage,999
+08/24/15,Cassandra Brandow,Arlington,Texas,Office Supplies,Storage,724
+08/24/15,Cassandra Brandow,Arlington,Texas,Furniture,Tables,919
+08/24/15,Cassandra Brandow,Arlington,Texas,Office Supplies,Binders,3
+03/26/16,Sibella Parks,New York City,New York,Office Supplies,Storage,460
+11/04/16,Roy Collins,Louisville,Kentucky,Office Supplies,Fasteners,11
+06/08/17,Tiffany House,Dallas,Texas,Office Supplies,Supplies,24
+06/08/17,Tiffany House,Dallas,Texas,Office Supplies,Paper,85
+06/08/17,Tiffany House,Dallas,Texas,Technology,Phones,382
+12/24/14,Resi Pölking,Cleveland,Ohio,Furniture,Furnishings,30
+06/09/17,Meg O'Connel,Chicago,Illinois,Furniture,Furnishings,24
+06/09/17,Meg O'Connel,Chicago,Illinois,Furniture,Tables,109
+06/09/17,Meg O'Connel,Chicago,Illinois,Office Supplies,Paper,36
+06/15/17,Tamara Dahlen,Quincy,Illinois,Office Supplies,Art,20
+12/05/17,Rob Beeghly,Columbus,Indiana,Office Supplies,Appliances,61
+12/05/17,Rob Beeghly,Columbus,Indiana,Office Supplies,Paper,39
+12/05/17,Rob Beeghly,Columbus,Indiana,Technology,Accessories,99
+03/18/17,Carol Darley,Tyler,Texas,Office Supplies,Appliances,3
+03/18/17,Carol Darley,Tyler,Texas,Technology,Accessories,28
+03/18/17,Carol Darley,Tyler,Texas,Furniture,Furnishings,83
+03/18/17,Carol Darley,Tyler,Texas,Office Supplies,Binders,183
+11/19/16,Doug Jacobs,New York City,New York,Office Supplies,Binders,14
+11/19/16,Doug Jacobs,New York City,New York,Office Supplies,Storage,65
+11/19/16,Doug Jacobs,New York City,New York,Office Supplies,Storage,69
+11/04/17,Grant Thornton,Burlington,North Carolina,Technology,Machines,8000
+11/04/17,Grant Thornton,Burlington,North Carolina,Office Supplies,Appliances,167
+07/05/14,Michael Chen,Jackson,Mississippi,Technology,Accessories,480
+07/05/14,Michael Chen,Jackson,Mississippi,Office Supplies,Labels,15
+07/05/14,Michael Chen,Jackson,Mississippi,Office Supplies,Paper,19
+12/25/17,Ralph Arnett,New York City,New York,Furniture,Bookcases,192
+06/21/14,Naresj Patel,Waynesboro,Virginia,Furniture,Furnishings,104
+06/21/14,Naresj Patel,Waynesboro,Virginia,Technology,Phones,285
+06/21/14,Naresj Patel,Waynesboro,Virginia,Office Supplies,Storage,37
+03/28/15,Alan Barnes,Los Angeles,California,Technology,Accessories,166
+03/28/15,Alan Barnes,Los Angeles,California,Office Supplies,Paper,33
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Art,198
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Labels,47
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Envelopes,201
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Labels,98
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Art,3
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Binders,19
+05/14/15,Jesus Ocampo,Chester,Pennsylvania,Office Supplies,Binders,5
+09/02/17,Dorris liebe,Cleveland,Ohio,Furniture,Furnishings,15
+11/04/16,Alejandro Savely,Seattle,Washington,Furniture,Furnishings,210
+04/09/15,Jay Kimmel,Long Beach,California,Furniture,Tables,370
+09/12/14,Brad Norvell,Cary,North Carolina,Office Supplies,Paper,10
+09/12/14,Brad Norvell,Cary,North Carolina,Office Supplies,Appliances,167
+09/12/14,Brad Norvell,Cary,North Carolina,Technology,Accessories,15
+12/02/14,David Philippe,New York City,New York,Technology,Accessories,120
+12/02/14,David Philippe,New York City,New York,Furniture,Bookcases,884
+12/02/14,David Philippe,New York City,New York,Office Supplies,Binders,47
+04/05/14,Tracy Hopkins,New York City,New York,Office Supplies,Paper,55
+09/03/17,Arthur Prichep,Palm Coast,Florida,Office Supplies,Envelopes,24
+05/19/17,Roland Schwarz,Mount Vernon,New York,Office Supplies,Appliances,281
+05/19/17,Roland Schwarz,Mount Vernon,New York,Technology,Phones,308
+05/19/17,Roland Schwarz,Mount Vernon,New York,Technology,Accessories,300
+07/01/14,Dorris liebe,Seattle,Washington,Office Supplies,Binders,20
+01/11/14,Seth Vernon,Dover,Delaware,Furniture,Furnishings,10
+09/24/17,Kelly Collister,Newark,Ohio,Furniture,Furnishings,103
+06/02/14,Christine Kargatis,Orem,Utah,Office Supplies,Binders,60
+06/02/14,Christine Kargatis,Orem,Utah,Furniture,Furnishings,73
+02/13/16,Ross DeVincentis,Los Angeles,California,Office Supplies,Paper,147
+12/15/16,Michael Paige,Detroit,Michigan,Furniture,Tables,1653
+12/15/16,Michael Paige,Detroit,Michigan,Office Supplies,Storage,296
+10/07/14,Mathew Reese,Philadelphia,Pennsylvania,Furniture,Furnishings,130
+07/07/16,Steve Chapman,Hialeah,Florida,Office Supplies,Supplies,46
+09/16/17,Jay Fein,Austin,Texas,Office Supplies,Envelopes,18
+09/16/17,Jay Fein,Austin,Texas,Technology,Phones,56
+12/03/16,Emily Grady,Oceanside,New York,Office Supplies,Paper,183
+12/03/16,Emily Grady,Oceanside,New York,Furniture,Tables,400
+12/03/16,Emily Grady,Oceanside,New York,Office Supplies,Storage,34
+12/03/16,Emily Grady,Oceanside,New York,Furniture,Chairs,543
+12/03/16,Emily Grady,Oceanside,New York,Office Supplies,Labels,6
+01/21/17,Darrin Sayre,Seattle,Washington,Office Supplies,Storage,243
+01/21/17,Darrin Sayre,Seattle,Washington,Technology,Accessories,180
+01/21/17,Darrin Sayre,Seattle,Washington,Office Supplies,Binders,100
+01/21/17,Darrin Sayre,Seattle,Washington,Office Supplies,Binders,28
+01/21/17,Darrin Sayre,Seattle,Washington,Furniture,Bookcases,85
+01/21/17,Darrin Sayre,Seattle,Washington,Office Supplies,Binders,19
+09/08/14,Gary Zandusky,San Francisco,California,Technology,Accessories,50
+01/04/14,Phillina Ober,Naperville,Illinois,Office Supplies,Labels,12
+01/04/14,Phillina Ober,Naperville,Illinois,Office Supplies,Storage,273
+01/04/14,Phillina Ober,Naperville,Illinois,Office Supplies,Binders,4
+08/27/16,Sung Shariari,Dallas,Texas,Office Supplies,Supplies,52
+08/27/16,Sung Shariari,Dallas,Texas,Office Supplies,Paper,4
+08/27/16,Sung Shariari,Dallas,Texas,Office Supplies,Paper,5
+08/27/16,Sung Shariari,Dallas,Texas,Office Supplies,Supplies,55
+05/27/14,Maya Herman,San Diego,California,Furniture,Tables,567
+05/27/14,Maya Herman,San Diego,California,Office Supplies,Storage,359
+03/20/16,Peter Bühler,Evanston,Illinois,Technology,Phones,12
+10/02/17,Roland Fjeld,Trenton,Michigan,Office Supplies,Binders,58
+10/02/17,Roland Fjeld,Trenton,Michigan,Furniture,Furnishings,158
+10/02/17,Roland Fjeld,Trenton,Michigan,Office Supplies,Art,57
+10/02/17,Roland Fjeld,Trenton,Michigan,Office Supplies,Binders,3
+04/07/16,Yoseph Carroll,San Francisco,California,Technology,Copiers,1200
+12/07/15,Melanie Seite,Los Angeles,California,Furniture,Furnishings,80
+09/18/16,Nona Balk,Jacksonville,Florida,Furniture,Tables,383
+12/29/14,Debra Catini,Cottage Grove,Minnesota,Office Supplies,Storage,25
+12/29/14,Debra Catini,Cottage Grove,Minnesota,Technology,Accessories,120
+07/23/17,Christine Phan,New York City,New York,Office Supplies,Binders,13
+09/18/17,Barry Französisch,Green Bay,Wisconsin,Office Supplies,Paper,23
+08/31/15,Andrew Roberts,Los Angeles,California,Office Supplies,Paper,58
+11/03/17,Julie Creighton,Atlanta,Georgia,Office Supplies,Labels,12
+02/08/15,Lisa Hazard,Columbus,Ohio,Technology,Phones,108
+01/13/14,Chris Selesnick,Bossier City,Louisiana,Office Supplies,Envelopes,11
+01/13/14,Chris Selesnick,Bossier City,Louisiana,Office Supplies,Envelopes,51
+01/13/14,Chris Selesnick,Bossier City,Louisiana,Technology,Accessories,647
+01/13/14,Chris Selesnick,Bossier City,Louisiana,Office Supplies,Binders,6
+01/13/14,Chris Selesnick,Bossier City,Louisiana,Office Supplies,Storage,573
+05/14/14,Anthony Johnson,Saint Petersburg,Florida,Furniture,Furnishings,311
+05/19/16,Laurel Elliston,Arlington,Virginia,Furniture,Chairs,642
+01/30/17,Benjamin Venier,Des Moines,Iowa,Office Supplies,Binders,18
+01/30/17,Benjamin Venier,Des Moines,Iowa,Technology,Phones,207
+01/30/17,Benjamin Venier,Des Moines,Iowa,Office Supplies,Binders,32
+01/30/17,Benjamin Venier,Des Moines,Iowa,Office Supplies,Binders,8
+01/30/17,Benjamin Venier,Des Moines,Iowa,Office Supplies,Art,40
+01/30/17,Benjamin Venier,Des Moines,Iowa,Furniture,Furnishings,35
+06/29/14,Dan Lawera,Cincinnati,Ohio,Office Supplies,Art,33
+08/21/15,Nick Zandusky,San Francisco,California,Furniture,Chairs,544
+08/21/15,Nick Zandusky,San Francisco,California,Office Supplies,Paper,60
+08/21/15,Nick Zandusky,San Francisco,California,Office Supplies,Paper,24
+08/21/15,Nick Zandusky,San Francisco,California,Office Supplies,Paper,4
+10/03/15,Bryan Mills,Columbus,Ohio,Office Supplies,Binders,32
+10/03/15,Bryan Mills,Columbus,Ohio,Technology,Accessories,24
+10/03/15,Bryan Mills,Columbus,Ohio,Furniture,Bookcases,35
+10/03/15,Bryan Mills,Columbus,Ohio,Technology,Accessories,48
+05/23/15,Erin Ashbrook,Columbia,South Carolina,Office Supplies,Envelopes,187
+03/17/17,Clay Ludtke,Lancaster,California,Office Supplies,Binders,17
+12/12/15,Liz Thompson,Lancaster,California,Furniture,Chairs,349
+06/26/15,Sue Ann Reed,Richmond,Virginia,Office Supplies,Binders,144
+06/26/15,Sue Ann Reed,Richmond,Virginia,Office Supplies,Storage,15
+06/26/15,Sue Ann Reed,Richmond,Virginia,Office Supplies,Binders,43
+06/26/15,Sue Ann Reed,Richmond,Virginia,Furniture,Chairs,333
+05/20/16,Joe Kamberova,Asheville,North Carolina,Technology,Phones,1364
+09/20/14,Erica Smith,San Francisco,California,Office Supplies,Labels,10
+09/20/14,Erica Smith,San Francisco,California,Office Supplies,Paper,22
+09/21/17,Rick Hansen,Rochester,Minnesota,Office Supplies,Binders,20
+12/24/15,David Bremer,Rochester,New York,Office Supplies,Paper,133
+12/24/15,David Bremer,Rochester,New York,Office Supplies,Paper,13
+12/24/15,David Bremer,Rochester,New York,Office Supplies,Labels,22
+11/27/15,Carlos Daly,Lake Elsinore,California,Furniture,Chairs,284
+02/20/17,Helen Wasserman,San Diego,California,Furniture,Furnishings,22
+02/20/17,Helen Wasserman,San Diego,California,Technology,Phones,216
+08/18/16,Helen Wasserman,New York City,New York,Office Supplies,Appliances,355
+03/12/16,Mike Caudle,Monroe,Louisiana,Office Supplies,Paper,13
+04/22/17,Gary McGarr,San Francisco,California,Furniture,Furnishings,18
+11/01/14,Russell Applegate,Denver,Colorado,Office Supplies,Art,43
+11/01/14,Russell Applegate,Denver,Colorado,Technology,Phones,1984
+02/03/15,Allen Armold,Omaha,Nebraska,Furniture,Furnishings,28
+02/03/15,Allen Armold,Omaha,Nebraska,Technology,Accessories,150
+10/13/14,Zuschuss Carroll,Edmonds,Washington,Office Supplies,Art,12
+10/13/14,Zuschuss Carroll,Edmonds,Washington,Furniture,Tables,1299
+10/13/14,Zuschuss Carroll,Edmonds,Washington,Office Supplies,Appliances,214
+10/13/14,Zuschuss Carroll,Edmonds,Washington,Technology,Accessories,26
+05/14/17,Pauline Johnson,Santa Ana,California,Furniture,Furnishings,18
+05/14/17,Pauline Johnson,Santa Ana,California,Technology,Accessories,1400
+03/20/15,Bart Watters,Milwaukee,Wisconsin,Office Supplies,Paper,52
+09/15/16,Dean Braden,Philadelphia,Pennsylvania,Office Supplies,Paper,5
+06/28/14,Cynthia Arntzen,Philadelphia,Pennsylvania,Office Supplies,Paper,41
+06/28/14,Cynthia Arntzen,Philadelphia,Pennsylvania,Office Supplies,Binders,3
+06/28/14,Cynthia Arntzen,Philadelphia,Pennsylvania,Furniture,Chairs,1228
+06/28/14,Cynthia Arntzen,Philadelphia,Pennsylvania,Office Supplies,Binders,31
+06/28/14,Cynthia Arntzen,Philadelphia,Pennsylvania,Office Supplies,Paper,336
+06/20/17,Toby Ritter,Belleville,New Jersey,Technology,Accessories,240
+06/20/17,Toby Ritter,Belleville,New Jersey,Office Supplies,Labels,10
+05/09/14,Patrick Gardner,San Francisco,California,Technology,Accessories,68
+05/09/14,Patrick Gardner,San Francisco,California,Technology,Accessories,168
+08/21/17,Greg Tran,Lakeville,Minnesota,Office Supplies,Fasteners,35
+08/21/17,Greg Tran,Lakeville,Minnesota,Office Supplies,Supplies,37
+08/21/17,Greg Tran,Lakeville,Minnesota,Office Supplies,Envelopes,15
+06/16/17,Joel Eaton,Florence,Kentucky,Furniture,Chairs,302
+06/16/17,Joel Eaton,Florence,Kentucky,Office Supplies,Appliances,181
+06/16/17,Joel Eaton,Florence,Kentucky,Technology,Phones,192
+06/16/17,Joel Eaton,Florence,Kentucky,Technology,Phones,66
+07/23/16,Jennifer Braxton,Tampa,Florida,Office Supplies,Art,35
+07/23/16,Jennifer Braxton,Tampa,Florida,Office Supplies,Appliances,24
+07/23/16,Jennifer Braxton,Tampa,Florida,Technology,Machines,265
+09/08/14,Lisa Hazard,Tyler,Texas,Office Supplies,Binders,51
+11/04/17,James Lanier,Columbia,Tennessee,Office Supplies,Paper,10
+03/07/16,Ed Braxton,Fort Worth,Texas,Technology,Phones,21
+11/20/15,Brian Moss,New York City,New York,Office Supplies,Art,60
+11/20/15,Brian Moss,New York City,New York,Office Supplies,Art,12
+11/20/15,Brian Moss,New York City,New York,Furniture,Bookcases,186
+11/07/16,Eudokia Martin,Los Angeles,California,Office Supplies,Binders,37
+11/07/16,Eudokia Martin,Los Angeles,California,Office Supplies,Binders,27
+11/07/16,Eudokia Martin,Los Angeles,California,Office Supplies,Supplies,11
+11/07/16,Eudokia Martin,Los Angeles,California,Office Supplies,Labels,15
+10/13/15,Art Foster,Louisville,Kentucky,Technology,Phones,84
+10/13/15,Art Foster,Louisville,Kentucky,Furniture,Chairs,288
+01/01/17,Guy Armstrong,Lorain,Ohio,Furniture,Furnishings,49
+02/07/14,Cyma Kinney,Linden,New Jersey,Technology,Accessories,115
+06/20/16,Dave Poirier,Salinas,California,Office Supplies,Art,5
+06/20/16,Dave Poirier,Salinas,California,Office Supplies,Paper,39
+05/28/16,Valerie Dominguez,Jackson,Mississippi,Office Supplies,Art,186
+02/19/16,Greg Tran,New York City,New York,Furniture,Furnishings,44
+02/19/16,Greg Tran,New York City,New York,Office Supplies,Storage,243
+08/03/14,Berenike Kampe,New York City,New York,Office Supplies,Paper,40
+08/03/14,Berenike Kampe,New York City,New York,Office Supplies,Supplies,102
+08/03/14,Berenike Kampe,New York City,New York,Office Supplies,Storage,21
+04/10/17,Sanjit Jacobs,New Brunswick,New Jersey,Office Supplies,Paper,8
+04/10/17,Sanjit Jacobs,New Brunswick,New Jersey,Office Supplies,Fasteners,7
+06/09/14,Chuck Magee,San Francisco,California,Office Supplies,Supplies,7
+06/09/14,Chuck Magee,San Francisco,California,Office Supplies,Art,23
+01/05/16,Anthony Johnson,Jacksonville,Florida,Technology,Accessories,191
+01/05/16,Anthony Johnson,Jacksonville,Florida,Office Supplies,Art,5
+01/05/16,Anthony Johnson,Jacksonville,Florida,Technology,Phones,59
+01/10/14,Anthony Jacobs,Springfield,Virginia,Office Supplies,Labels,3
+01/10/14,Anthony Jacobs,Springfield,Virginia,Furniture,Furnishings,52
+09/29/16,Linda Southworth,Philadelphia,Pennsylvania,Office Supplies,Labels,16
+04/06/14,Guy Phonely,Lancaster,Pennsylvania,Office Supplies,Binders,45
+09/03/16,Paul Knutson,Philadelphia,Pennsylvania,Office Supplies,Binders,1141
+09/03/16,Paul Knutson,Philadelphia,Pennsylvania,Technology,Phones,281
+10/19/15,Tracy Blumstein,Concord,New Hampshire,Office Supplies,Paper,34
+12/10/14,Sally Matthias,New York City,New York,Office Supplies,Paper,11
+12/10/14,Sally Matthias,New York City,New York,Office Supplies,Binders,106
+08/25/17,Guy Armstrong,Charlotte,North Carolina,Office Supplies,Paper,192
+01/17/16,Chuck Clark,Concord,New Hampshire,Furniture,Furnishings,323
+01/17/16,Chuck Clark,Concord,New Hampshire,Technology,Accessories,30
+01/17/16,Chuck Clark,Concord,New Hampshire,Technology,Accessories,372
+09/17/14,Anthony Garverick,Philadelphia,Pennsylvania,Office Supplies,Binders,6
+11/30/17,Harold Pawlan,New York City,New York,Office Supplies,Binders,68
+11/30/17,Harold Pawlan,New York City,New York,Furniture,Chairs,1243
+10/09/15,Dave Kipp,Springfield,Virginia,Office Supplies,Storage,31
+12/23/17,Gary Zandusky,San Francisco,California,Office Supplies,Art,13
+10/22/16,Peter McVee,Detroit,Michigan,Furniture,Furnishings,31
+04/29/14,Lauren Leatherbury,Rochester,New York,Furniture,Furnishings,17
+04/25/15,Jill Stevenson,Los Angeles,California,Office Supplies,Binders,14
+06/26/17,Olvera Toch,San Diego,California,Office Supplies,Storage,84
+10/14/17,Ed Ludwig,Columbia,Maryland,Office Supplies,Binders,38
+12/09/14,Cyma Kinney,San Francisco,California,Office Supplies,Paper,35
+06/20/17,Jeremy Ellison,New Rochelle,New York,Technology,Accessories,150
+06/20/17,Jeremy Ellison,New Rochelle,New York,Office Supplies,Binders,51
+06/26/17,Tracy Hopkins,Detroit,Michigan,Office Supplies,Paper,5
+06/26/17,Tracy Hopkins,Detroit,Michigan,Office Supplies,Art,16
+06/26/17,Tracy Hopkins,Detroit,Michigan,Technology,Phones,544
+11/10/16,Pamela Coakley,San Francisco,California,Office Supplies,Storage,156
+11/10/16,Pamela Coakley,San Francisco,California,Office Supplies,Binders,70
+10/03/16,Hunter Lopez,Houston,Texas,Office Supplies,Envelopes,16
+09/09/14,Maribeth Schnelling,Detroit,Michigan,Office Supplies,Labels,104
+10/29/17,George Bell,Auburn,New York,Office Supplies,Paper,47
+04/10/16,Justin Ritter,Springfield,Ohio,Office Supplies,Binders,9
+11/11/17,Tamara Dahlen,Garland,Texas,Office Supplies,Labels,10
+11/11/17,Tamara Dahlen,Garland,Texas,Office Supplies,Binders,18
+09/15/17,Dave Brooks,Chicago,Illinois,Technology,Phones,324
+04/08/16,Logan Currie,Los Angeles,California,Office Supplies,Paper,20
+04/08/16,Logan Currie,Los Angeles,California,Office Supplies,Storage,65
+04/08/16,Logan Currie,Los Angeles,California,Office Supplies,Paper,13
+12/30/17,Patrick O'Donnell,New York City,New York,Furniture,Bookcases,323
+12/30/17,Patrick O'Donnell,New York City,New York,Technology,Phones,91
+12/30/17,Patrick O'Donnell,New York City,New York,Office Supplies,Binders,53
+09/02/17,Bill Eplett,Jackson,Michigan,Technology,Phones,1200
+09/02/17,Bill Eplett,Jackson,Michigan,Technology,Accessories,1929
+09/02/17,Bill Eplett,Jackson,Michigan,Office Supplies,Storage,352
+05/31/15,Sample Company A,Norwich,Connecticut,Furniture,Furnishings,22
+11/27/17,Brian Moss,Milwaukee,Wisconsin,Furniture,Furnishings,47
+11/27/17,Brian Moss,Milwaukee,Wisconsin,Technology,Accessories,144
+06/15/14,Kelly Lampkin,San Antonio,Texas,Furniture,Tables,100
+06/15/14,Kelly Lampkin,San Antonio,Texas,Furniture,Chairs,798
+06/15/14,Kelly Lampkin,San Antonio,Texas,Office Supplies,Binders,9
+03/05/16,Rob Williams,Dallas,Texas,Office Supplies,Envelopes,149
+03/05/16,Rob Williams,Dallas,Texas,Office Supplies,Storage,13
+12/05/14,Roy Collins,Alexandria,Virginia,Office Supplies,Storage,25
+04/11/15,Sanjit Engle,New York City,New York,Technology,Accessories,85
+04/11/15,Sanjit Engle,New York City,New York,Technology,Phones,22
+04/11/15,Sanjit Engle,New York City,New York,Office Supplies,Appliances,407
+09/15/16,Adam Hart,New York City,New York,Office Supplies,Binders,842
+09/13/14,Jessica Myrick,Philadelphia,Pennsylvania,Office Supplies,Paper,16
+09/13/14,Jessica Myrick,Philadelphia,Pennsylvania,Technology,Accessories,252
+10/05/15,Joel Jenkins,Springfield,Virginia,Office Supplies,Art,46
+10/05/15,Joel Jenkins,Springfield,Virginia,Office Supplies,Appliances,29
+04/14/17,Alan Barnes,Toledo,Ohio,Office Supplies,Art,15
+04/14/17,Alan Barnes,Toledo,Ohio,Office Supplies,Art,90
+04/14/17,Alan Barnes,Toledo,Ohio,Office Supplies,Paper,14
+09/02/17,Ralph Kennedy,Philadelphia,Pennsylvania,Office Supplies,Paper,12
+06/20/16,Catherine Glotzbach,Philadelphia,Pennsylvania,Office Supplies,Paper,45
+06/20/16,Catherine Glotzbach,Philadelphia,Pennsylvania,Office Supplies,Binders,30
+06/20/16,Catherine Glotzbach,Philadelphia,Pennsylvania,Office Supplies,Paper,16
+06/20/16,Catherine Glotzbach,Philadelphia,Pennsylvania,Office Supplies,Appliances,448
+11/05/17,Ruben Ausman,Farmington,New Mexico,Technology,Accessories,160
+12/13/15,Rachel Payne,Riverside,California,Office Supplies,Paper,13
+12/13/15,Rachel Payne,Riverside,California,Office Supplies,Appliances,134
+06/19/16,Karen Carlisle,San Francisco,California,Office Supplies,Paper,17
+12/13/16,Rob Williams,Torrance,California,Office Supplies,Binders,6
+12/13/16,Rob Williams,Torrance,California,Furniture,Tables,1114
+05/29/15,John Lucas,Seattle,Washington,Office Supplies,Paper,32
+05/29/15,John Lucas,Seattle,Washington,Office Supplies,Storage,541
+05/29/15,John Lucas,Seattle,Washington,Office Supplies,Binders,168
+07/26/15,Cynthia Arntzen,Mesa,Arizona,Furniture,Tables,393
+11/28/17,Ross Baird,Philadelphia,Pennsylvania,Furniture,Furnishings,516
+11/28/17,Ross Baird,Philadelphia,Pennsylvania,Furniture,Furnishings,1007
+11/28/17,Ross Baird,Philadelphia,Pennsylvania,Furniture,Tables,2065
+11/28/17,Ross Baird,Philadelphia,Pennsylvania,Office Supplies,Paper,16
+11/28/17,Ross Baird,Philadelphia,Pennsylvania,Office Supplies,Paper,25
+04/03/17,Katherine Hughes,Philadelphia,Pennsylvania,Furniture,Furnishings,25
+12/28/17,Greg Hansen,Round Rock,Texas,Office Supplies,Art,27
+12/28/17,Greg Hansen,Round Rock,Texas,Furniture,Bookcases,79
+11/30/17,Scott Williamson,Jackson,Mississippi,Office Supplies,Storage,174
+05/15/17,Joseph Airdo,Phoenix,Arizona,Technology,Phones,30
+05/15/17,Joseph Airdo,Phoenix,Arizona,Office Supplies,Binders,5
+05/15/17,Joseph Airdo,Phoenix,Arizona,Office Supplies,Paper,16
+09/22/15,Daniel Lacy,Oceanside,California,Furniture,Furnishings,205
+11/14/17,Lindsay Williams,San Francisco,California,Furniture,Chairs,322
+11/27/15,Thomas Brumley,Fayetteville,Arkansas,Office Supplies,Binders,6
+09/01/16,Cynthia Voltz,San Francisco,California,Office Supplies,Envelopes,22
+09/22/14,Maribeth Schnelling,Boca Raton,Florida,Office Supplies,Labels,5
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Labels,10
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Art,36
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Paper,13
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Paper,192
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Labels,9
+04/09/17,Bryan Spruell,New York City,New York,Office Supplies,Storage,502
+01/16/14,Delfina Latchford,Philadelphia,Pennsylvania,Furniture,Furnishings,127
+01/16/14,Delfina Latchford,Philadelphia,Pennsylvania,Technology,Phones,124
+01/16/14,Delfina Latchford,Philadelphia,Pennsylvania,Office Supplies,Binders,19
+01/16/14,Delfina Latchford,Philadelphia,Pennsylvania,Office Supplies,Labels,30
+10/05/17,Phillina Ober,New York City,New York,Technology,Phones,161
+10/05/17,Phillina Ober,New York City,New York,Office Supplies,Binders,76
+07/09/17,Tamara Dahlen,Portland,Oregon,Office Supplies,Binders,1
+01/07/17,Bart Watters,Detroit,Michigan,Technology,Machines,3060
+05/30/16,Robert Waldorf,Wilmington,North Carolina,Office Supplies,Binders,3
+12/09/15,Ken Brennan,Columbus,Indiana,Office Supplies,Paper,34
+10/03/16,Emily Burns,New York City,New York,Furniture,Chairs,599
+11/11/14,Tracy Zic,Louisville,Colorado,Office Supplies,Art,3
+11/11/14,Tracy Zic,Louisville,Colorado,Technology,Phones,560
+11/11/14,Tracy Zic,Louisville,Colorado,Furniture,Chairs,604
+09/29/17,Ann Steele,Pasadena,Texas,Office Supplies,Labels,8
+09/29/17,Ann Steele,Pasadena,Texas,Office Supplies,Envelopes,28
+09/29/17,Ann Steele,Pasadena,Texas,Technology,Machines,337
+03/10/15,Toby Swindell,Houston,Texas,Office Supplies,Binders,1
+05/21/17,John Grady,Auburn,New York,Furniture,Furnishings,520
+05/21/17,John Grady,Auburn,New York,Office Supplies,Art,18
+03/29/15,Sara Luxemburg,Jacksonville,Florida,Furniture,Chairs,1167
+09/09/16,Troy Staebel,New York City,New York,Office Supplies,Binders,15
+08/26/16,Roland Fjeld,San Jose,California,Office Supplies,Fasteners,10
+08/26/16,Roland Fjeld,San Jose,California,Office Supplies,Paper,155
+05/21/14,Mitch Willingham,Virginia Beach,Virginia,Office Supplies,Binders,2716
+05/21/14,Mitch Willingham,Virginia Beach,Virginia,Technology,Phones,618
+10/28/15,Rob Dowd,Henderson,Kentucky,Office Supplies,Envelopes,11
+10/28/15,Rob Dowd,Henderson,Kentucky,Office Supplies,Storage,37
+10/28/15,Rob Dowd,Henderson,Kentucky,Furniture,Furnishings,24
+10/28/15,Rob Dowd,Henderson,Kentucky,Furniture,Furnishings,33

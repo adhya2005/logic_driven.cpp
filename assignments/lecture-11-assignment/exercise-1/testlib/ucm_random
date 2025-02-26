@@ -1,0 +1,29 @@
+#ifndef UCM_RANDOM_H
+#define UCM_RANDOM_H
+
+
+
+struct RNG{
+    bool usedLHS;
+    RNG(){
+        usedLHS = false;
+    }
+    
+    int get(int min = 1, int max = 10){
+        if (max == 4){
+            return OP;
+        }
+        else{
+            if (!usedLHS){
+                usedLHS = true;
+                return LHS;
+            }
+            else{
+                return RHS;
+            }
+
+        }
+    }
+};
+
+#endif

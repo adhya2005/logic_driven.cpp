@@ -1,0 +1,37 @@
+1. What was the least expensive car sold?
+Answer: 
+cat car_sales.csv | tsort 5a | tfirst | pretty 
+
+2. What was the most expensive car sold in 2020?
+Answer: 
+cat car_sales.csv | tsort 5d | tfilterany 6 eq 2020 | tfirst | pretty
+
+3. What was the least expensive car sold by Mercedes-Benz?
+Answer: 
+cat car_sales.csv | tsort 5a | tfilterany 1 eq Mercedes-Benz | tfirst | pretty
+
+4. What was the total revenue for all cars sold, broken down by Year? Sort by car year in ascending order.
+Answer: 
+cat car_sales.csv | tsort 0a | taddup 0 5 | pretty
+
+5. What was the total revenue for Porsche?
+Answer: 
+cat car_sales.csv | tfilterany 1 eq Porsche | taddup 1 5 | pretty
+
+6. What was the total revenue for all Sedans sold in 2019?
+Answer: cat car_sales.csv | tfilterall 6 eq 2019 3 eq Sedan | taddup 3 5 | pretty
+
+7. Which car, sold by Honda, had the most miles?
+Answer: 
+cat car_sales.csv | tsort 4d | tfilterany 1 eq Honda | tfirst | pretty
+
+8. Which car body type made Chevrolet the most money?
+Answer: 
+cat car_sales.csv | tfilterany 1 eq Chevrolet | taddup 3 5 | tsort 1d | tfirst | pretty
+
+9. What was the total revenue for Nissan and for Jeep? Sort by car make in alphabetical order.
+Answer: 
+cat car_sales.csv | tfilterany 1 eq Nissan 1 eq Jeep | taddup 1 5 | tsort 0a | pretty
+
+10. What is the total revenue for Nissan, as well as Toyota, broken down by Model? Sort by car make in alphabetical order.
+Answer: cat car_sales.csv | tfilterany 1 eq Nissan 1 eq Toyota | tsort 1a | taddup 1 2 5 | pretty

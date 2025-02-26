@@ -1,0 +1,196 @@
+State,City,Amount
+Alabama,Montgomery,1003
+Alabama,Decatur,225
+Arizona,Tucson,1901
+Arizona,Phoenix,1885
+Arizona,Gilbert,1281
+Arizona,Mesa,410
+Arizona,Scottsdale,361
+Arizona,Sierra Vista,62
+Arkansas,Fayetteville,111
+California,San Francisco,12422
+California,Los Angeles,11867
+California,San Diego,6662
+California,Santa Ana,1418
+California,Anaheim,1296
+California,Torrance,1120
+California,Vallejo,1064
+California,Costa Mesa,687
+California,Pasadena,672
+California,Long Beach,565
+California,Whittier,445
+California,San Jose,410
+California,Lancaster,366
+California,Mission Viejo,356
+California,Hesperia,352
+California,Lake Elsinore,284
+California,Roseville,256
+California,Oceanside,205
+California,Riverside,147
+California,Concord,130
+California,Huntington Beach,96
+California,Brentwood,80
+California,Salinas,44
+California,Inglewood,15
+California,Redlands,14
+California,Santa Clara,11
+Colorado,Denver,3269
+Colorado,Louisville,1364
+Colorado,Aurora,1183
+Colorado,Parker,875
+Colorado,Colorado Springs,855
+Colorado,Arvada,503
+Connecticut,Manchester,1179
+Connecticut,Norwich,22
+Connecticut,Fairfield,7
+Delaware,Wilmington,488
+Delaware,Dover,77
+Florida,Tampa,2457
+Florida,Jacksonville,2093
+Florida,Tamarac,1410
+Florida,Fort Lauderdale,980
+Florida,Lakeland,730
+Florida,Saint Petersburg,505
+Florida,Pembroke Pines,459
+Florida,Miami,264
+Florida,Melbourne,96
+Florida,Hialeah,46
+Florida,Palm Coast,24
+Florida,Boca Raton,5
+Georgia,Atlanta,6425
+Georgia,Columbus,669
+Georgia,Warner Robins,393
+Illinois,Chicago,7655
+Illinois,Decatur,1191
+Illinois,Aurora,703
+Illinois,Bloomington,618
+Illinois,Naperville,436
+Illinois,Orland Park,340
+Illinois,Park Ridge,255
+Illinois,Quincy,119
+Illinois,Evanston,12
+Illinois,Peoria,12
+Indiana,Columbus,445
+Indiana,New Albany,209
+Iowa,Des Moines,340
+Iowa,Urbandale,103
+Kentucky,Henderson,1536
+Kentucky,Florence,741
+Kentucky,Louisville,383
+Kentucky,Richmond,372
+Louisiana,Bossier City,1288
+Louisiana,Monroe,696
+Maryland,Columbia,38
+Massachusetts,Franklin,1488
+Massachusetts,Lowell,760
+Massachusetts,Lawrence,112
+Michigan,Detroit,7200
+Michigan,Jackson,3570
+Michigan,Dearborn,1542
+Michigan,Saginaw,376
+Michigan,Canton,316
+Michigan,Trenton,276
+Michigan,Westland,212
+Michigan,Rochester Hills,133
+Michigan,Taylor,52
+Minnesota,Lakeville,3833
+Minnesota,Cottage Grove,145
+Minnesota,Minneapolis,118
+Minnesota,Saint Paul,78
+Minnesota,Rochester,70
+Minnesota,Eagan,63
+Mississippi,Jackson,1740
+Missouri,Independence,839
+Missouri,Gladstone,164
+Montana,Great Falls,4189
+Nebraska,Omaha,178
+Nebraska,Fremont,79
+Nevada,Las Vegas,76
+New Hampshire,Concord,759
+New Jersey,Belleville,1513
+New Jersey,Lakewood,334
+New Jersey,Linden,115
+New Jersey,Hackensack,88
+New Jersey,Westfield,46
+New Jersey,New Brunswick,15
+New Jersey,Morristown,8
+New Jersey,Plainfield,6
+New Mexico,Farmington,160
+New Mexico,Carlsbad,28
+New York,New York City,24001
+New York,Oceanside,1166
+New York,Auburn,1146
+New York,Mount Vernon,889
+New York,Troy,695
+New York,Rochester,645
+New York,New Rochelle,271
+New York,Lindenhurst,55
+North Carolina,Burlington,8167
+North Carolina,Asheville,1364
+North Carolina,Gastonia,896
+North Carolina,Charlotte,352
+North Carolina,Durham,201
+North Carolina,Cary,192
+North Carolina,Wilmington,61
+North Carolina,Concord,16
+North Carolina,Chapel Hill,14
+Ohio,Medina,1817
+Ohio,Columbus,1236
+Ohio,Akron,971
+Ohio,Springfield,656
+Ohio,Dublin,629
+Ohio,Newark,617
+Ohio,Cincinnati,131
+Ohio,Grove City,124
+Ohio,Toledo,119
+Ohio,Lorain,49
+Ohio,Cleveland,45
+Ohio,Hamilton,13
+Oklahoma,Edmond,960
+Oklahoma,Norman,64
+Oregon,Portland,420
+Oregon,Salem,133
+Pennsylvania,Philadelphia,16483
+Pennsylvania,Chester,571
+Pennsylvania,Lancaster,45
+Rhode Island,Warwick,63
+South Carolina,Columbia,489
+Tennessee,Memphis,1192
+Tennessee,Columbia,562
+Tennessee,Bristol,158
+Tennessee,Franklin,35
+Tennessee,Murfreesboro,16
+Texas,Houston,11754
+Texas,San Antonio,11454
+Texas,Arlington,2645
+Texas,Richardson,1289
+Texas,Dallas,1242
+Texas,Pasadena,375
+Texas,Tyler,348
+Texas,Fort Worth,318
+Texas,Amarillo,205
+Texas,Austin,163
+Texas,Huntsville,142
+Texas,Round Rock,106
+Texas,Harlingen,79
+Texas,Grand Prairie,57
+Texas,Laredo,40
+Texas,Garland,28
+Utah,Orem,1178
+Utah,West Jordan,56
+Utah,Layton,5
+Virginia,Virginia Beach,3334
+Virginia,Arlington,647
+Virginia,Richmond,535
+Virginia,Waynesboro,426
+Virginia,Springfield,237
+Virginia,Alexandria,25
+Washington,Seattle,5658
+Washington,Des Moines,2046
+Washington,Edmonds,1551
+Washington,Vancouver,633
+Washington,Marysville,9
+Wisconsin,Franklin,2658
+Wisconsin,Madison,666
+Wisconsin,Green Bay,492
+Wisconsin,Milwaukee,243

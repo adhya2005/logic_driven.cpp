@@ -1,0 +1,345 @@
+State,City,Category,Amount
+Alabama,Decatur,Office Supplies,225
+Alabama,Montgomery,Office Supplies,23
+Alabama,Montgomery,Technology,980
+Arizona,Gilbert,Technology,168
+Arizona,Gilbert,Office Supplies,1113
+Arizona,Mesa,Office Supplies,17
+Arizona,Mesa,Furniture,393
+Arizona,Phoenix,Technology,30
+Arizona,Phoenix,Office Supplies,558
+Arizona,Phoenix,Furniture,1297
+Arizona,Scottsdale,Office Supplies,158
+Arizona,Scottsdale,Technology,203
+Arizona,Sierra Vista,Office Supplies,62
+Arizona,Tucson,Office Supplies,17
+Arizona,Tucson,Technology,1884
+Arkansas,Fayetteville,Office Supplies,111
+California,Anaheim,Office Supplies,1296
+California,Brentwood,Technology,80
+California,Concord,Furniture,130
+California,Costa Mesa,Office Supplies,120
+California,Costa Mesa,Furniture,567
+California,Hesperia,Technology,100
+California,Hesperia,Office Supplies,252
+California,Huntington Beach,Office Supplies,96
+California,Inglewood,Office Supplies,15
+California,Lake Elsinore,Furniture,284
+California,Lancaster,Office Supplies,17
+California,Lancaster,Furniture,349
+California,Long Beach,Office Supplies,195
+California,Long Beach,Furniture,370
+California,Los Angeles,Office Supplies,1307
+California,Los Angeles,Technology,4473
+California,Los Angeles,Furniture,6087
+California,Mission Viejo,Office Supplies,356
+California,Oceanside,Furniture,205
+California,Pasadena,Office Supplies,672
+California,Redlands,Office Supplies,14
+California,Riverside,Office Supplies,147
+California,Roseville,Furniture,43
+California,Roseville,Office Supplies,213
+California,Salinas,Office Supplies,44
+California,San Diego,Office Supplies,527
+California,San Diego,Furniture,917
+California,San Diego,Technology,5218
+California,San Francisco,Office Supplies,2629
+California,San Francisco,Technology,4041
+California,San Francisco,Furniture,5752
+California,San Jose,Office Supplies,410
+California,Santa Ana,Furniture,18
+California,Santa Ana,Technology,1400
+California,Santa Clara,Office Supplies,11
+California,Torrance,Office Supplies,6
+California,Torrance,Furniture,1114
+California,Vallejo,Office Supplies,15
+California,Vallejo,Furniture,1049
+California,Whittier,Technology,445
+Colorado,Arvada,Office Supplies,6
+Colorado,Arvada,Furniture,497
+Colorado,Aurora,Furniture,102
+Colorado,Aurora,Office Supplies,421
+Colorado,Aurora,Technology,660
+Colorado,Colorado Springs,Office Supplies,107
+Colorado,Colorado Springs,Furniture,748
+Colorado,Denver,Office Supplies,84
+Colorado,Denver,Furniture,219
+Colorado,Denver,Technology,2966
+Colorado,Louisville,Office Supplies,3
+Colorado,Louisville,Furniture,604
+Colorado,Louisville,Technology,757
+Colorado,Parker,Office Supplies,73
+Colorado,Parker,Furniture,802
+Connecticut,Fairfield,Office Supplies,7
+Connecticut,Manchester,Office Supplies,135
+Connecticut,Manchester,Furniture,1044
+Connecticut,Norwich,Furniture,22
+Delaware,Dover,Furniture,10
+Delaware,Dover,Technology,67
+Delaware,Wilmington,Furniture,47
+Delaware,Wilmington,Technology,68
+Delaware,Wilmington,Office Supplies,373
+Florida,Boca Raton,Office Supplies,5
+Florida,Fort Lauderdale,Office Supplies,22
+Florida,Fort Lauderdale,Furniture,958
+Florida,Hialeah,Office Supplies,46
+Florida,Jacksonville,Office Supplies,10
+Florida,Jacksonville,Technology,498
+Florida,Jacksonville,Furniture,1585
+Florida,Lakeland,Furniture,730
+Florida,Melbourne,Office Supplies,96
+Florida,Miami,Technology,18
+Florida,Miami,Office Supplies,246
+Florida,Palm Coast,Office Supplies,24
+Florida,Pembroke Pines,Technology,84
+Florida,Pembroke Pines,Furniture,375
+Florida,Saint Petersburg,Office Supplies,16
+Florida,Saint Petersburg,Technology,178
+Florida,Saint Petersburg,Furniture,311
+Florida,Tamarac,Office Supplies,1410
+Florida,Tampa,Office Supplies,402
+Florida,Tampa,Technology,883
+Florida,Tampa,Furniture,1172
+Georgia,Atlanta,Office Supplies,6425
+Georgia,Columbus,Office Supplies,669
+Georgia,Warner Robins,Furniture,393
+Illinois,Aurora,Office Supplies,2
+Illinois,Aurora,Furniture,701
+Illinois,Bloomington,Furniture,618
+Illinois,Chicago,Furniture,1199
+Illinois,Chicago,Office Supplies,1284
+Illinois,Chicago,Technology,5172
+Illinois,Decatur,Office Supplies,34
+Illinois,Decatur,Technology,409
+Illinois,Decatur,Furniture,748
+Illinois,Evanston,Technology,12
+Illinois,Naperville,Technology,147
+Illinois,Naperville,Office Supplies,289
+Illinois,Orland Park,Technology,340
+Illinois,Park Ridge,Furniture,255
+Illinois,Peoria,Office Supplies,12
+Illinois,Quincy,Office Supplies,119
+Indiana,Columbus,Furniture,3
+Indiana,Columbus,Technology,99
+Indiana,Columbus,Office Supplies,343
+Indiana,New Albany,Furniture,96
+Indiana,New Albany,Office Supplies,113
+Iowa,Des Moines,Furniture,35
+Iowa,Des Moines,Office Supplies,98
+Iowa,Des Moines,Technology,207
+Iowa,Urbandale,Office Supplies,103
+Kentucky,Florence,Office Supplies,181
+Kentucky,Florence,Technology,258
+Kentucky,Florence,Furniture,302
+Kentucky,Henderson,Office Supplies,201
+Kentucky,Henderson,Furniture,1335
+Kentucky,Louisville,Office Supplies,11
+Kentucky,Louisville,Technology,84
+Kentucky,Louisville,Furniture,288
+Kentucky,Richmond,Furniture,71
+Kentucky,Richmond,Office Supplies,301
+Louisiana,Bossier City,Office Supplies,641
+Louisiana,Bossier City,Technology,647
+Louisiana,Monroe,Office Supplies,13
+Louisiana,Monroe,Technology,683
+Maryland,Columbia,Office Supplies,38
+Massachusetts,Franklin,Furniture,1488
+Massachusetts,Lawrence,Office Supplies,55
+Massachusetts,Lawrence,Furniture,57
+Massachusetts,Lowell,Office Supplies,760
+Michigan,Canton,Furniture,28
+Michigan,Canton,Office Supplies,288
+Michigan,Dearborn,Furniture,302
+Michigan,Dearborn,Office Supplies,1240
+Michigan,Detroit,Office Supplies,824
+Michigan,Detroit,Furniture,2772
+Michigan,Detroit,Technology,3604
+Michigan,Jackson,Office Supplies,441
+Michigan,Jackson,Technology,3129
+Michigan,Rochester Hills,Technology,133
+Michigan,Saginaw,Technology,132
+Michigan,Saginaw,Office Supplies,244
+Michigan,Taylor,Office Supplies,10
+Michigan,Taylor,Technology,42
+Michigan,Trenton,Office Supplies,118
+Michigan,Trenton,Furniture,158
+Michigan,Westland,Office Supplies,212
+Minnesota,Cottage Grove,Office Supplies,25
+Minnesota,Cottage Grove,Technology,120
+Minnesota,Eagan,Office Supplies,17
+Minnesota,Eagan,Technology,46
+Minnesota,Lakeville,Office Supplies,1831
+Minnesota,Lakeville,Furniture,2002
+Minnesota,Minneapolis,Office Supplies,46
+Minnesota,Minneapolis,Furniture,72
+Minnesota,Rochester,Technology,20
+Minnesota,Rochester,Office Supplies,50
+Minnesota,Saint Paul,Office Supplies,78
+Mississippi,Jackson,Office Supplies,394
+Mississippi,Jackson,Technology,480
+Mississippi,Jackson,Furniture,866
+Missouri,Gladstone,Technology,38
+Missouri,Gladstone,Furniture,126
+Missouri,Independence,Office Supplies,839
+Montana,Great Falls,Office Supplies,1189
+Montana,Great Falls,Technology,3000
+Nebraska,Fremont,Office Supplies,79
+Nebraska,Omaha,Furniture,28
+Nebraska,Omaha,Technology,150
+Nevada,Las Vegas,Office Supplies,76
+New Hampshire,Concord,Office Supplies,34
+New Hampshire,Concord,Furniture,323
+New Hampshire,Concord,Technology,402
+New Jersey,Belleville,Furniture,78
+New Jersey,Belleville,Technology,240
+New Jersey,Belleville,Office Supplies,1195
+New Jersey,Hackensack,Furniture,88
+New Jersey,Lakewood,Office Supplies,334
+New Jersey,Linden,Technology,115
+New Jersey,Morristown,Office Supplies,8
+New Jersey,New Brunswick,Office Supplies,15
+New Jersey,Plainfield,Office Supplies,6
+New Jersey,Westfield,Office Supplies,46
+New Mexico,Carlsbad,Office Supplies,28
+New Mexico,Farmington,Technology,160
+New York,Auburn,Technology,35
+New York,Auburn,Furniture,520
+New York,Auburn,Office Supplies,591
+New York,Lindenhurst,Office Supplies,55
+New York,Mount Vernon,Office Supplies,281
+New York,Mount Vernon,Technology,608
+New York,New Rochelle,Office Supplies,51
+New York,New Rochelle,Technology,220
+New York,New York City,Technology,6592
+New York,New York City,Furniture,6605
+New York,New York City,Office Supplies,10804
+New York,Oceanside,Office Supplies,223
+New York,Oceanside,Furniture,943
+New York,Rochester,Furniture,17
+New York,Rochester,Office Supplies,628
+New York,Troy,Technology,30
+New York,Troy,Office Supplies,306
+New York,Troy,Furniture,359
+North Carolina,Asheville,Technology,1364
+North Carolina,Burlington,Office Supplies,167
+North Carolina,Burlington,Technology,8000
+North Carolina,Cary,Technology,15
+North Carolina,Cary,Office Supplies,177
+North Carolina,Chapel Hill,Office Supplies,14
+North Carolina,Charlotte,Technology,102
+North Carolina,Charlotte,Office Supplies,250
+North Carolina,Concord,Office Supplies,16
+North Carolina,Durham,Office Supplies,201
+North Carolina,Gastonia,Office Supplies,195
+North Carolina,Gastonia,Technology,701
+North Carolina,Wilmington,Office Supplies,61
+Ohio,Akron,Furniture,284
+Ohio,Akron,Office Supplies,687
+Ohio,Cincinnati,Office Supplies,131
+Ohio,Cleveland,Furniture,45
+Ohio,Columbus,Furniture,122
+Ohio,Columbus,Technology,496
+Ohio,Columbus,Office Supplies,618
+Ohio,Dublin,Furniture,73
+Ohio,Dublin,Office Supplies,76
+Ohio,Dublin,Technology,480
+Ohio,Grove City,Office Supplies,4
+Ohio,Grove City,Technology,120
+Ohio,Hamilton,Office Supplies,13
+Ohio,Lorain,Furniture,49
+Ohio,Medina,Office Supplies,24
+Ohio,Medina,Furniture,452
+Ohio,Medina,Technology,1341
+Ohio,Newark,Office Supplies,23
+Ohio,Newark,Furniture,594
+Ohio,Springfield,Office Supplies,656
+Ohio,Toledo,Office Supplies,119
+Oklahoma,Edmond,Office Supplies,15
+Oklahoma,Edmond,Technology,945
+Oklahoma,Norman,Technology,64
+Oregon,Portland,Office Supplies,180
+Oregon,Portland,Technology,240
+Oregon,Salem,Office Supplies,48
+Oregon,Salem,Technology,85
+Pennsylvania,Chester,Office Supplies,571
+Pennsylvania,Lancaster,Office Supplies,45
+Pennsylvania,Philadelphia,Technology,3061
+Pennsylvania,Philadelphia,Office Supplies,4173
+Pennsylvania,Philadelphia,Furniture,9249
+Rhode Island,Warwick,Office Supplies,63
+South Carolina,Columbia,Office Supplies,187
+South Carolina,Columbia,Furniture,302
+Tennessee,Bristol,Office Supplies,158
+Tennessee,Columbia,Office Supplies,10
+Tennessee,Columbia,Furniture,552
+Tennessee,Franklin,Furniture,35
+Tennessee,Memphis,Office Supplies,73
+Tennessee,Memphis,Furniture,1119
+Tennessee,Murfreesboro,Furniture,16
+Texas,Amarillo,Furniture,205
+Texas,Arlington,Furniture,919
+Texas,Arlington,Office Supplies,1726
+Texas,Austin,Technology,56
+Texas,Austin,Office Supplies,107
+Texas,Dallas,Office Supplies,469
+Texas,Dallas,Technology,773
+Texas,Fort Worth,Furniture,66
+Texas,Fort Worth,Office Supplies,72
+Texas,Fort Worth,Technology,180
+Texas,Garland,Office Supplies,28
+Texas,Grand Prairie,Office Supplies,57
+Texas,Harlingen,Office Supplies,79
+Texas,Houston,Office Supplies,843
+Texas,Houston,Furniture,3770
+Texas,Houston,Technology,7141
+Texas,Huntsville,Office Supplies,70
+Texas,Huntsville,Technology,72
+Texas,Laredo,Office Supplies,9
+Texas,Laredo,Technology,31
+Texas,Pasadena,Office Supplies,38
+Texas,Pasadena,Technology,337
+Texas,Richardson,Furniture,191
+Texas,Richardson,Technology,1098
+Texas,Round Rock,Office Supplies,27
+Texas,Round Rock,Furniture,79
+Texas,San Antonio,Office Supplies,512
+Texas,San Antonio,Furniture,2638
+Texas,San Antonio,Technology,8304
+Texas,Tyler,Technology,28
+Texas,Tyler,Furniture,83
+Texas,Tyler,Office Supplies,237
+Utah,Layton,Office Supplies,5
+Utah,Orem,Office Supplies,60
+Utah,Orem,Furniture,1118
+Utah,West Jordan,Office Supplies,56
+Virginia,Alexandria,Office Supplies,25
+Virginia,Arlington,Office Supplies,5
+Virginia,Arlington,Furniture,642
+Virginia,Richmond,Office Supplies,202
+Virginia,Richmond,Furniture,333
+Virginia,Springfield,Furniture,52
+Virginia,Springfield,Office Supplies,185
+Virginia,Virginia Beach,Technology,618
+Virginia,Virginia Beach,Office Supplies,2716
+Virginia,Waynesboro,Office Supplies,37
+Virginia,Waynesboro,Furniture,104
+Virginia,Waynesboro,Technology,285
+Washington,Des Moines,Technology,2046
+Washington,Edmonds,Technology,26
+Washington,Edmonds,Office Supplies,226
+Washington,Edmonds,Furniture,1299
+Washington,Marysville,Office Supplies,9
+Washington,Seattle,Technology,1174
+Washington,Seattle,Office Supplies,2185
+Washington,Seattle,Furniture,2299
+Washington,Vancouver,Furniture,15
+Washington,Vancouver,Technology,618
+Wisconsin,Franklin,Office Supplies,172
+Wisconsin,Franklin,Technology,534
+Wisconsin,Franklin,Furniture,1952
+Wisconsin,Green Bay,Office Supplies,23
+Wisconsin,Green Bay,Technology,469
+Wisconsin,Madison,Office Supplies,666
+Wisconsin,Milwaukee,Furniture,47
+Wisconsin,Milwaukee,Office Supplies,52
+Wisconsin,Milwaukee,Technology,144

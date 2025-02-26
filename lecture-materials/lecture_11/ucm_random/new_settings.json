@@ -1,0 +1,10 @@
+{
+    "python.showStartPage": false,
+    "python.logging.level": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "local-history.path": "/home/me/.theia/local-history/",
+    "workbench.iconTheme": "theia-file-icons",
+    "clangd.fallbackFlags": [
+        "-I/home/me/inc"
+    ]
+}

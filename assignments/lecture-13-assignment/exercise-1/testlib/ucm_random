@@ -1,0 +1,23 @@
+#ifndef UCM_RANDOM_H
+#define UCM_RANDOM_H
+
+#include <iostream>
+struct RNG{
+    static int count;
+    RNG(){}
+    
+    int get(int min = 1, int max = 10){
+        int result = 0;
+        if (MAX[count] == max && MIN[count] == min){
+            result = SEQ[count];
+        }
+        
+        
+        count++;
+        return result;
+    }
+};
+
+int RNG::count = 0;
+
+#endif

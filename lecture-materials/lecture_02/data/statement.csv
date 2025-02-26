@@ -1,0 +1,55 @@
+Date,Category,Merchant,Amount
+2023-08-01,Utilities,PG&E,75
+2023-08-01,Groceries,Safeway,100
+2023-08-02,Bills,Verizon,75
+2023-08-02,Dining Out,KFC,20
+2023-08-03,Dining Out,Burger King,30
+2023-08-03,Gasoline,Chevron,50
+2023-08-04,Groceries,Walmart,75
+2023-08-04,Subscriptions,Netflix,15
+2023-08-05,Dining Out,McDonald's,30
+2023-08-05,Gasoline,Shell,60
+2023-08-06,Gasoline,Chevron,60
+2023-08-06,Groceries,Costco,50
+2023-08-07,Groceries,Trader Joe's,80
+2023-08-07,Shopping,Target,20
+2023-08-08,Clothing,H&M,20
+2023-08-08,Dining Out,Pizza Hut,40
+2023-08-09,Gasoline,Chevron,70
+2023-08-09,Shopping,Amazon,50
+2023-08-09,Subscriptions,Spotify,10
+2023-08-10,Groceries,Whole Foods,90
+2023-08-11,Dining Out,Chipotle,30
+2023-08-11,Dining Out,Subway,50
+2023-08-12,Clothing,Macy's,20
+2023-08-12,Gasoline,Chevron,80
+2023-08-13,Groceries,Costco,100
+2023-08-13,Groceries,Raley's,80
+2023-08-14,Dining Out,Taco Bell,60
+2023-08-14,Shopping,Target,50
+2023-08-15,Gasoline,Chevron,90
+2023-08-21,Gasoline,Shell,60
+2023-08-16,Groceries,Grocery Outlet,110
+2023-08-16,Subscriptions,Apple TV+,5
+2023-08-16,Subscriptions,HBO Max,15
+2023-08-17,Dining Out,Starbucks,70
+2023-08-17,Rent,Apartment,200
+2023-08-18,Gasoline,Shell,30
+2023-08-19,Groceries,FoodMaxx,100
+2023-08-19,Groceries,Safeway,120
+2023-08-20,Dining Out,Chipotle,40
+2023-08-20,Dining Out,Wendy's,80
+2023-08-21,Shopping,Target,50
+2023-08-22,Groceries,Sprouts,130
+2023-08-22,Shopping,Amazon,50
+2023-08-23,Dining Out,Domino's Pizza,90
+2023-08-24,Gasoline,Shell,60
+2023-08-25,Groceries,Walmart,140
+2023-08-25,Subscriptions,Hulu,12
+2023-08-26,Dining Out,Dunkin',30
+2023-08-27,Clothing,Kohl's,20
+2023-08-28,Groceries,Sprouts,50
+2023-08-29,Subscriptions,Disney+,10
+2023-08-29,Travel,United Airlines,400
+2023-08-30,Subscriptions,Peacock,15
+2023-08-31,Bills,Comcast,50
